@@ -15,6 +15,13 @@ Saat ini, saya sedang memperdalam keterampilan saya dalam pengembangan aplikasi 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khairul122&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khairul122&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" />
+    <img src="https://github.com/fatkhurrhn/fatkhurrhn/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
+  </picture>
+</div>
 
 # 🏆 Contribution Stats:
 <div align="center">
