@@ -9,21 +9,12 @@ Saat ini, saya sedang memperdalam keterampilan saya dalam pengembangan aplikasi 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🛠 Projects:
-- 🌐 Sistem Manajemen Konten (CMS) berbasis Node.js dan React.
-- 📊 Aplikasi Dashboard Analitik Data dengan Django dan React.
-- 🛍️ E-commerce Platform dengan Next.js dan PostgreSQL.
-- 🔐 API Authentication dan Authorization menggunakan Node.js dan MongoDB.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Khairul122&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khairul122&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khairul122&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🌿 Contributions:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
-</div>
 
 # 🏆 Contribution Stats:
 <div align="center">
