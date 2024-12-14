@@ -21,5 +21,25 @@ Saat ini, saya aktif mengembangkan proyek-proyek yang menggabungkan mikrokontrol
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khairul122&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khairul122&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🌿 Contributions
+<img alt="Snake animation" src="https://github.com/{username}/contribution-snake/blob/output/github-contribution-grid-snake.svg"/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <h2>🏆 Contribution Stats</h2>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khairul122&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khairul122&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khairul122&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khairul122&theme=tokyonight" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khairul122&theme=tokyonight&utcOffset=8" />
+</div>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Khairul122&icon=1&color=0)](https://visitcount.itsvg.in)
