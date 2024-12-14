@@ -1,42 +1,32 @@
 # 💫 About Me:
-Saya adalah mahasiswa tahun ke-3 di Universitas Malikussaleh, jurusan Teknik Informatika dengan fokus khusus pada Internet of Things (IoT) dan sistem embedded. Pengalaman saya mencakup pengembangan solusi IoT untuk monitoring lingkungan, otomasi rumah pintar, dan sistem kendali industri. Saya memiliki ketertarikan mendalam dalam mengintegrasikan perangkat keras dengan software untuk menciptakan solusi yang inovatif dan efisien.
+Saya adalah mahasiswa tahun ke-3 di Universitas Malikussaleh, jurusan Teknik Informatika, dengan minat besar pada bidang Software Engineering. Saya memiliki pengalaman dalam membangun aplikasi web dan desktop yang efisien, scalable, dan mudah dikelola. Fokus utama saya adalah pengembangan full-stack menggunakan teknologi modern untuk menciptakan solusi yang inovatif dan berdampak.
 
-Saat ini, saya aktif mengembangkan proyek-proyek yang menggabungkan mikrokontroler, sensor, dan sistem cloud untuk membangun solusi IoT yang berkelanjutan. Keahlian saya meliputi pemrograman embedded systems, protokol komunikasi IoT, dan pengembangan dashboard monitoring real-time.
+Saat ini, saya sedang memperdalam keterampilan saya dalam pengembangan aplikasi berbasis microservices dan pengintegrasian API. Saya juga memiliki keahlian dalam manajemen versi proyek menggunakan Git, pengujian software, dan pengembangan aplikasi berbasis cloud.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khrl_arll) 
 
 # 💻 Tech Stack:
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MQTT](https://img.shields.io/badge/MQTT-%23000000.svg?style=for-the-badge&logo=mqtt&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TensorFlow Lite](https://img.shields.io/badge/TFLite-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/Home%20Assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🛠 IoT Projects:
-- 🏠 Smart Home Automation System menggunakan ESP32 dan MQTT
-- 🌱 Sistem Monitoring Pertanian Pintar dengan Sensor Network
-- 🏭 Industrial IoT Dashboard untuk Monitoring Mesin
-- 🚗 Vehicle Tracking System dengan GPS dan GSM
-- 🔐 Security System berbasis IoT dengan Face Recognition
+## 🛠 Projects:
+- 🌐 Sistem Manajemen Konten (CMS) berbasis Node.js dan React.
+- 📊 Aplikasi Dashboard Analitik Data dengan Django dan React.
+- 🛍️ E-commerce Platform dengan Next.js dan PostgreSQL.
+- 🔐 API Authentication dan Authorization menggunakan Node.js dan MongoDB.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Khairul122&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Khairul122&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khairul122&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🌿 Contributions
-<img alt="Snake animation" src="https://github.com/{username}/contribution-snake/blob/output/github-contribution-grid-snake.svg"/>
-
+# 🌿 Contributions:
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation">
 </div>
 
-![Snake animation](github-snake.svg)
-
-<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake.svg">
-
-# 🏆 Contribution Stats
+# 🏆 Contribution Stats:
+<div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khairul122&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khairul122&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khairul122&theme=tokyonight" />
@@ -45,4 +35,5 @@ Saat ini, saya aktif mengembangkan proyek-proyek yang menggabungkan mikrokontrol
 </div>
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=Khairul122&icon=1&color=0)](https://visitcount.itsvg.in)
