@@ -32,8 +32,11 @@ Saat ini, saya aktif mengembangkan proyek-proyek yang menggabungkan mikrokontrol
   </picture>
 </div>
 
-<div align="center">
-  <h2>🏆 Contribution Stats</h2>
+![Snake animation](github-snake.svg)
+
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake.svg">
+
+# 🏆 Contribution Stats
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khairul122&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khairul122&theme=tokyonight" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khairul122&theme=tokyonight" />
