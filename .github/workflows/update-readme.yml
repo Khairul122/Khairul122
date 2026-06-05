@@ -1,0 +1,20 @@
+name: Update README Stats
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # Every 2 hours
+  workflow_dispatch:
+
+jobs:
+  warm-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Warm up stats service caches
+        run: |
+          echo "Warming up external stats caches..."
+          curl -s -o /dev/null "https://github-readme-stats.vercel.app/api?username=Khairul122&show_icons=true&include_all_commits=true&count_private=true"
+          curl -s -o /dev/null "https://github-readme-stats.vercel.app/api/top-langs/?username=Khairul122&layout=compact&langs_count=10"
+          curl -s -o /dev/null "https://github-readme-streak-stats.herokuapp.com/?user=Khairul122"
+          curl -s -o /dev/null "https://github-readme-activity-graph.vercel.app/graph?username=Khairul122&bg_color=0d0d1a&color=06b6d4&line=7c3aed&point=10b981&area=true"
+          curl -s -o /dev/null "https://github-profile-trophy.vercel.app/?username=Khairul122&theme=discord"
+          echo "All caches warmed."
