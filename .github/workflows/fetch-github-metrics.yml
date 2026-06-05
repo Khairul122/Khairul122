@@ -2,7 +2,7 @@ name: Fetch GitHub Metrics
 
 on:
   schedule:
-    - cron: '*/15 * * * *' # Every 15 minutes
+    - cron: '*/5 * * * *' # Every 5 minutes (more real-time — monitor rate limits)
   workflow_dispatch:
 
 jobs:
