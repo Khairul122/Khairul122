@@ -1,5 +1,5 @@
 const fs = require('fs');
-const fetch = require('node-fetch');
+const fetch = globalThis.fetch || (async function(){ throw new Error('Global fetch not available. Please run this script in Node 18+ or install node-fetch.');})();
 
 const USER = process.env.GITHUB_USER || 'Khairul122';
 const TOKEN = process.env.GITHUB_TOKEN;
