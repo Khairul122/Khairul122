@@ -118,7 +118,7 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Khairul122&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://raw.githubusercontent.com/Khairul122/Khairul122/main/scripts/trophy.svg)](https://github.com/Khairul122)
 
 </div>
 

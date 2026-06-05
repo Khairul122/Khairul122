@@ -30,13 +30,17 @@ jobs:
         run: |
           node scripts/generate-badge.js
 
+      - name: Generate trophy SVG
+        run: |
+          node scripts/generate-trophy.js
+
       - name: Commit changes
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/github-metrics.json README.md scripts/metrics-badge.svg || true
+          git add data/github-metrics.json README.md scripts/metrics-badge.svg scripts/trophy.svg || true
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
