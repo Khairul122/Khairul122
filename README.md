@@ -1,18 +1,140 @@
-# 💫 About Me:
-Saya adalah mahasiswa jurusan Teknik Informatika. Saya memiliki hobi mempelajari hal-hal baru, terutama yang dapat meningkatkan pengetahuan dan keterampilan saya di bidang teknologi. Saat ini, saya memiliki minat yang besar dalam bidang Software Engineering, dengan fokus pada pengembangan perangkat lunak yang inovatif dan bermanfaat.<br><br>Saya selalu bersemangat untuk mengeksplorasi berbagai teknologi terkini, mempelajari bahasa pemrograman baru, serta mengasah kemampuan pemecahan masalah melalui proyek-proyek praktis. Komitmen saya terhadap pembelajaran dan pengembangan diri menjadi motivasi utama dalam perjalanan akademik dan karier saya ke depannya.
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:06b6d4,100:10b981&height=220&section=header&text=Khairul%20Huda&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20ML%20Engineer%20%7C%20Web3%20Explorer&descAlignY=60&descSize=20&descColor=c4b5fd)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/khrl_arll) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=650&height=50&lines=%F0%9F%94%97+Web3+Explorer+%26+Blockchain+Enthusiast;%F0%9F%92%BB+Full+Stack+Developer;%F0%9F%A4%96+Machine+Learning+Engineer;%F0%9F%93%B1+Mobile+App+Developer+%7C+Flutter+%26+Kotlin;%F0%9F%9A%80+Always+Building+Something+New)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Khairul122&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Khairul122&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khairul122&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Khairul122&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+### 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/khrl_arll)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khairul122)
+[![Email](https://img.shields.io/badge/Email-khairulhuda242%40gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khairulhuda242@gmail.com)
+
+</div>
+
+---
+
+## 🧬 About Me
+
+```typescript
+const khairul: Developer = {
+  name:       "Khairul Huda",
+  role:       ["Full Stack Dev", "ML Engineer", "Web3 Explorer"],
+  education:  "Teknik Informatika",
+  passion:    "Building innovative & impactful software",
+  focus:      ["Software Engineering", "AI/ML", "Blockchain", "Mobile"],
+  motto:      "Code today. Change tomorrow. 🚀",
+};
+```
+
+> Saya adalah mahasiswa **Teknik Informatika** yang antusias mempelajari hal-hal baru, terutama di bidang teknologi. Saat ini fokus pada **Software Engineering**, **Machine Learning**, dan ekosistem **Web3**. Saya percaya bahwa kode yang baik mampu mengubah dunia.
+
+---
+
+## ⚡ Tech Stack
+
+### 🔤 Languages
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,js,ts,kotlin,python,php,dart&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### 🛠 Frameworks & Libraries
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=angular,flutter,laravel,flask,bootstrap,opencv,pytorch,tensorflow,react&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### 🗄 Databases & Infrastructure
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,firebase,apache,hadoop&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### 🔧 Tools & Design
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,arduino,vscode,androidstudio&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### 🔗 Web3 & Blockchain
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=solidity,ethereum&theme=dark)](https://skillicons.dev)
+
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-7c3aed?style=for-the-badge&logo=solidity&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Khairul122&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=7c3aed&title_color=06b6d4&icon_color=10b981&text_color=e2e8f0&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khairul122&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=7c3aed&title_color=06b6d4&text_color=e2e8f0&langs_count=10"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khairul122&theme=tokyonight&background=0d0d1a&border=7c3aed&ring=06b6d4&fire=10b981&currStreakLabel=06b6d4&sideLabels=c4b5fd&dates=e2e8f0)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Khairul122&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Khairul122&bg_color=0d0d1a&color=06b6d4&line=7c3aed&point=10b981&area=true&hide_border=false&area_color=1e1b4b)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Khairul122/Khairul122/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=Khairul122&icon=6&color=6)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:06b6d4,100:7c3aed&height=120&section=footer)
+
+</div>
