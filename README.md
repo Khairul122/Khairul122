@@ -118,7 +118,7 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 
 <div align="center">
 
-[![trophy](https://raw.githubusercontent.com/Khairul122/Khairul122/main/scripts/trophy.svg)](https://github.com/Khairul122)
+[![trophy](https://khairul122.github.io/Khairul122/trophy.svg)](https://github.com/Khairul122)
 
 </div>
 
@@ -150,8 +150,10 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Khairul122&icon=6&color=6)
+![Visitor Count](https://komarev.com/ghpvc/?username=Khairul122)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:10b981,50:06b6d4,100:7c3aed&height=120&section=footer)
 
 </div>
+
+
