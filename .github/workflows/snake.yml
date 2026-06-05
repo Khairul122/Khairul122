@@ -11,6 +11,11 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Khairul122
@@ -19,11 +24,6 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Checkout repo
-        uses: actions/checkout@v4
-        with:
-          persist-credentials: false
 
       - name: Copy snake to docs
         run: |
