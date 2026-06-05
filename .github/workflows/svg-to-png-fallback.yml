@@ -1,0 +1,57 @@
+name: SVG to PNG fallback
+
+on:
+  push:
+    paths:
+      - 'trophy.svg'
+      - 'docs/**/*.svg'
+      - '*.svg'
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Install image tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y imagemagick librsvg2-bin
+
+      - name: Convert SVGs to PNG fallbacks
+        run: |
+          set -e
+          # Find SVGs to convert (root and docs)
+          files=$(git ls-files "*.svg" "docs/**/*.svg" || true)
+          echo "Found: $files"
+          for f in $files; do
+            out="docs/$(basename "${f%.svg}.png")"
+            mkdir -p "$(dirname "$out")"
+            if command -v rsvg-convert >/dev/null 2>&1; then
+              echo "Converting $f -> $out with rsvg-convert"
+              rsvg-convert "$f" -o "$out" || convert -background none "$f" "$out"
+            else
+              echo "Converting $f -> $out with convert"
+              convert -background none "$f" "$out"
+            fi
+          done
+
+      - name: Commit PNG fallbacks
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A docs/*.png *.png || true
+          if [ -n "$(git status --porcelain)" ]; then
+            git commit -m "Add PNG fallbacks for SVG assets (auto) [skip ci]" -m "Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>"
+            git push "https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git" HEAD:main
+          else
+            echo "No PNG changes to commit"
+          fi
