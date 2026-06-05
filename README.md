@@ -25,15 +25,35 @@
 ```typescript
 const khairul: Developer = {
   name:       "Khairul Huda",
-  role:       ["Full Stack Dev", "ML Engineer", "Web3 Explorer"],
+  role:       ["Full Stack Dev", "ML Engineer", "Open Source Contributor"],
   education:  "Teknik Informatika",
-  passion:    "Building innovative & impactful software",
-  focus:      ["Software Engineering", "AI/ML", "Blockchain", "Mobile"],
+  passion:    "Building impactful software and improving developer experiences",
+  focus:      ["Software Engineering", "AI/ML", "Developer Tools", "Web3 (exploratory)"],
   motto:      "Code today. Change tomorrow. 🚀",
+  liveMetrics: "GitHub performance metrics auto-updated (commits, PRs, issues, top repos)"
 };
 ```
 
-> Saya adalah mahasiswa **Teknik Informatika** yang antusias mempelajari hal-hal baru, terutama di bidang teknologi. Saat ini fokus pada **Software Engineering**, **Machine Learning**, dan ekosistem **Web3**. Saya percaya bahwa kode yang baik mampu mengubah dunia.
+> Saya adalah mahasiswa **Teknik Informatika** yang aktif berkontribusi ke open-source. Profil ini menampilkan metrik GitHub real-time berdasarkan aktivitas (commits, PRs, issues, dan repos teratas). Bagian "GitHub Live" di bawah diperbarui otomatis untuk mencerminkan performa dan membantu pengunjung memahami aktivitas saya secara langsung.
+
+---
+
+## 📊 GitHub Live
+
+Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions (fetch-github-metrics) dan diperbarui periodik.
+
+<!-- GITHUB-METRICS:START -->
+- Recent commits (7d): _updating..._
+- PRs merged (30d): _updating..._
+- Issues opened (30d): _updating..._
+- Top repos (by activity): _updating..._
+- Languages by activity: _see top-langs image_
+
+<!-- GITHUB-METRICS:END -->
+
+---
+
+
 
 ---
 
