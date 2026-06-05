@@ -40,6 +40,8 @@ const khairul: Developer = {
 
 ## 📊 GitHub Live
 
+[![GitHub Metrics](https://raw.githubusercontent.com/Khairul122/Khairul122/main/scripts/metrics-badge.svg)](https://khairul122.github.io)
+
 Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions (fetch-github-metrics) dan diperbarui periodik.
 
 <!-- GITHUB-METRICS:START -->
