@@ -118,7 +118,10 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 
 <div align="center">
 
-[![trophy](https://khairul122.github.io/Khairul122/trophy.svg)](https://github.com/Khairul122)
+<picture>
+  <source type="image/svg+xml" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/main/trophy.svg"/>
+  <img alt="trophy" src="https://raw.githubusercontent.com/Khairul122/Khairul122/main/docs/trophy.png"/>
+</picture>
 
 </div>
 
@@ -139,9 +142,9 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/main/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/main/github-contribution-grid-snake.svg"/>
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Khairul122/Khairul122/main/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/main/docs/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/main/docs/github-contribution-grid-snake.svg"/>
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Khairul122/Khairul122/main/docs/github-contribution-grid-snake-dark.png"/>
 </picture>
 
 </div>
