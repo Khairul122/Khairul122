@@ -28,7 +28,7 @@ const khairul: Developer = {
   role:       ["Full Stack Dev", "ML Engineer", "Open Source Contributor"],
   education:  "Teknik Informatika",
   passion:    "Building impactful software and improving developer experiences",
-  focus:      ["Software Engineering", "AI/ML", "Developer Tools", "Web3 (exploratory)"],
+  focus:      ["Software Engineering", "AI/ML", "Developer Tools"],
   motto:      "Code today. Change tomorrow. 🚀",
   liveMetrics: "GitHub performance metrics auto-updated (commits, PRs, issues, top repos)"
 };
