@@ -1,1 +1,45 @@
-{}
+{
+  "lastUpdated": "2026-06-05T22:25:41.265Z",
+  "recentCommits": 29,
+  "prsMerged": 0,
+  "issuesOpened": 0,
+  "topRepos": [
+    {
+      "name": "Khairul122",
+      "pushedAt": "2026-06-05T22:25:16Z",
+      "html_url": "https://github.com/Khairul122/Khairul122",
+      "description": null
+    },
+    {
+      "name": "cnn-jalan",
+      "pushedAt": "2026-06-05T20:29:38Z",
+      "html_url": "https://github.com/Khairul122/cnn-jalan",
+      "description": null
+    },
+    {
+      "name": "frontend-synectra",
+      "pushedAt": "2026-06-01T23:22:23Z",
+      "html_url": "https://github.com/Khairul122/frontend-synectra",
+      "description": null
+    },
+    {
+      "name": "backend-synectra",
+      "pushedAt": "2026-05-30T06:51:56Z",
+      "html_url": "https://github.com/Khairul122/backend-synectra",
+      "description": null
+    },
+    {
+      "name": "knn-pln",
+      "pushedAt": "2026-05-27T04:53:06Z",
+      "html_url": "https://github.com/Khairul122/knn-pln",
+      "description": null
+    }
+  ],
+  "topLangs": [
+    "CSS",
+    "JavaScript",
+    "PHP",
+    "HTML",
+    "SCSS"
+  ]
+}

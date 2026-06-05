@@ -43,11 +43,16 @@ const khairul: Developer = {
 Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions (fetch-github-metrics) dan diperbarui periodik.
 
 <!-- GITHUB-METRICS:START -->
-- Recent commits (7d): _updating..._
-- PRs merged (30d): _updating..._
-- Issues opened (30d): _updating..._
-- Top repos (by activity): _updating..._
-- Languages by activity: _see top-langs image_
+- Recent commits (7d): **29**
+- PRs merged (30d): **0**
+- Issues opened (30d): **0**
+- Top repos (by recent activity):
+  - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [cnn-jalan](https://github.com/Khairul122/cnn-jalan) - 
+  - [frontend-synectra](https://github.com/Khairul122/frontend-synectra) - 
+  - [backend-synectra](https://github.com/Khairul122/backend-synectra) - 
+  - [knn-pln](https://github.com/Khairul122/knn-pln) - 
+- Languages by activity: **CSS, JavaScript, PHP, HTML, SCSS**
 
 <!-- GITHUB-METRICS:END -->
 
