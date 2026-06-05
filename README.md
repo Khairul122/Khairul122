@@ -139,9 +139,9 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/main/docs/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/main/docs/github-contribution-grid-snake.svg"/>
-  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Khairul122/Khairul122/main/docs/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://khairul122.github.io/Khairul122/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://khairul122.github.io/Khairul122/github-contribution-grid-snake.svg"/>
+  <img alt="github-contribution-grid-snake" src="https://khairul122.github.io/Khairul122/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
