@@ -1,0 +1,40 @@
+name: Monitor fetch-github-metrics failures
+
+on:
+  workflow_run:
+    workflows:
+      - 'fetch-github-metrics.yml'
+    types:
+      - completed
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  notify:
+    if: ${{ github.event.workflow_run.conclusion == 'failure' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create alert issue
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const run = context.payload.workflow_run;
+            const title = `fetch-github-metrics failed (#${run.run_number})`;
+            const body = `Workflow **${run.name}** failed.
+
+- Repository: ${context.repo.owner}/${context.repo.repo}
+- Branch: ${run.head_branch}
+- Commit: ${run.head_sha}
+- Run: ${run.html_url}
+- Conclusion: ${run.conclusion}
+
+Please check the workflow logs and runner.`;
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body,
+              labels: ['ci','alert']
+            });
