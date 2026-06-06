@@ -124,7 +124,7 @@ async function getRateLimit(){
     }
     const topLangs = Object.entries(languages).sort((a,b)=>b[1]-a[1]).slice(0,5).map(x=>x[0]);
 
-    const metrics = { lastUpdated: new Date().toISOString(), recentCommits, prsMerged, issuesOpened, topRepos, topLangs };
+    const metrics = { lastUpdated: new Date().toISOString(), recentCommits, prsMerged, issuesOpened, topRepos, topLangs, rateLimit: rl };
 
     if(!fs.existsSync('data')) fs.mkdirSync('data');
     fs.writeFileSync('data/github-metrics.json', JSON.stringify(metrics, null, 2));
@@ -140,6 +140,7 @@ async function getRateLimit(){
       `- Top repos (by recent activity):`,
       ...topRepos.map(r=>`  - [${r.name}](${r.html_url}) - ${r.description||''}`),
       `- Languages by activity: **${topLangs.join(', ')}**`,
+      `- Rate limit remaining: **${rl.remaining}** (resets: ${new Date(rl.reset*1000).toISOString()})`,
       `- Last updated: ${metrics.lastUpdated}`
     ];
     const newSection = `${markerStart}\n${mdLines.join('\n')}\n\n${markerEnd}`;
