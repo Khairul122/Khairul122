@@ -1,0 +1,457 @@
+﻿convert	Set up job	∩╗┐2026-06-05T23:52:17.6127689Z Current runner version: '2.334.0'
+convert	Set up job	2026-06-05T23:52:17.6152468Z ##[group]Runner Image Provisioner
+convert	Set up job	2026-06-05T23:52:17.6153463Z Hosted Compute Agent
+convert	Set up job	2026-06-05T23:52:17.6154146Z Version: 20260520.533
+convert	Set up job	2026-06-05T23:52:17.6154795Z Commit: 189110e25284a9812c124fd27b339e2fb4f2f9db
+convert	Set up job	2026-06-05T23:52:17.6155594Z Build Date: 2026-05-20T17:44:04Z
+convert	Set up job	2026-06-05T23:52:17.6156313Z Worker ID: {3778ea73-3b1e-4ef2-8cc3-b4acbe4e719b}
+convert	Set up job	2026-06-05T23:52:17.6157093Z Azure Region: northcentralus
+convert	Set up job	2026-06-05T23:52:17.6157791Z ##[endgroup]
+convert	Set up job	2026-06-05T23:52:17.6159276Z ##[group]Operating System
+convert	Set up job	2026-06-05T23:52:17.6160036Z Ubuntu
+convert	Set up job	2026-06-05T23:52:17.6161051Z 24.04.4
+convert	Set up job	2026-06-05T23:52:17.6161629Z LTS
+convert	Set up job	2026-06-05T23:52:17.6162295Z ##[endgroup]
+convert	Set up job	2026-06-05T23:52:17.6162877Z ##[group]Runner Image
+convert	Set up job	2026-06-05T23:52:17.6163531Z Image: ubuntu-24.04
+convert	Set up job	2026-06-05T23:52:17.6164177Z Version: 20260525.161.1
+convert	Set up job	2026-06-05T23:52:17.6165253Z Included Software: https://github.com/actions/runner-images/blob/ubuntu24/20260525.161/images/ubuntu/Ubuntu2404-Readme.md
+convert	Set up job	2026-06-05T23:52:17.6167049Z Image Release: https://github.com/actions/runner-images/releases/tag/ubuntu24%2F20260525.161
+convert	Set up job	2026-06-05T23:52:17.6168105Z ##[endgroup]
+convert	Set up job	2026-06-05T23:52:17.6169211Z ##[group]GITHUB_TOKEN Permissions
+convert	Set up job	2026-06-05T23:52:17.6171985Z Contents: write
+convert	Set up job	2026-06-05T23:52:17.6172649Z Metadata: read
+convert	Set up job	2026-06-05T23:52:17.6173223Z ##[endgroup]
+convert	Set up job	2026-06-05T23:52:17.6175345Z Secret source: Actions
+convert	Set up job	2026-06-05T23:52:17.6176366Z Prepare workflow directory
+convert	Set up job	2026-06-05T23:52:17.6516468Z Prepare all required actions
+convert	Set up job	2026-06-05T23:52:17.6555931Z Getting action download info
+convert	Set up job	2026-06-05T23:52:17.9471551Z Download action repository 'actions/checkout@v4' (SHA:34e114876b0b11c390a56381ad16ebd13914f8d5)
+convert	Set up job	2026-06-05T23:52:18.1766610Z Complete job name: convert
+convert	Checkout	∩╗┐2026-06-05T23:52:18.2609619Z ##[group]Run actions/checkout@v4
+convert	Checkout	2026-06-05T23:52:18.2610754Z with:
+convert	Checkout	2026-06-05T23:52:18.2611252Z   persist-credentials: false
+convert	Checkout	2026-06-05T23:52:18.2611854Z   repository: Khairul122/Khairul122
+convert	Checkout	2026-06-05T23:52:18.2616562Z   token: ***
+convert	Checkout	2026-06-05T23:52:18.2617032Z   ssh-strict: true
+convert	Checkout	2026-06-05T23:52:18.2617488Z   ssh-user: git
+convert	Checkout	2026-06-05T23:52:18.2617932Z   clean: true
+convert	Checkout	2026-06-05T23:52:18.2618393Z   sparse-checkout-cone-mode: true
+convert	Checkout	2026-06-05T23:52:18.2618946Z   fetch-depth: 1
+convert	Checkout	2026-06-05T23:52:18.2619399Z   fetch-tags: false
+convert	Checkout	2026-06-05T23:52:18.2619957Z   show-progress: true
+convert	Checkout	2026-06-05T23:52:18.2620562Z   lfs: false
+convert	Checkout	2026-06-05T23:52:18.2620995Z   submodules: false
+convert	Checkout	2026-06-05T23:52:18.2621464Z   set-safe-directory: true
+convert	Checkout	2026-06-05T23:52:18.2622242Z ##[endgroup]
+convert	Checkout	2026-06-05T23:52:18.3792280Z Syncing repository: Khairul122/Khairul122
+convert	Checkout	2026-06-05T23:52:18.3794084Z ##[group]Getting Git version info
+convert	Checkout	2026-06-05T23:52:18.3794886Z Working directory is '/home/runner/work/Khairul122/Khairul122'
+convert	Checkout	2026-06-05T23:52:18.3795961Z [command]/usr/bin/git version
+convert	Checkout	2026-06-05T23:52:18.3880121Z git version 2.54.0
+convert	Checkout	2026-06-05T23:52:18.3907506Z ##[endgroup]
+convert	Checkout	2026-06-05T23:52:18.3923779Z Temporarily overriding HOME='/home/runner/work/_temp/c503da56-d752-4aa2-937e-77cafa93e3f1' before making global git config changes
+convert	Checkout	2026-06-05T23:52:18.3926380Z Adding repository directory to the temporary git global config as a safe directory
+convert	Checkout	2026-06-05T23:52:18.3937803Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/Khairul122/Khairul122
+convert	Checkout	2026-06-05T23:52:18.3983993Z Deleting the contents of '/home/runner/work/Khairul122/Khairul122'
+convert	Checkout	2026-06-05T23:52:18.3987326Z ##[group]Initializing the repository
+convert	Checkout	2026-06-05T23:52:18.3991648Z [command]/usr/bin/git init /home/runner/work/Khairul122/Khairul122
+convert	Checkout	2026-06-05T23:52:18.4090814Z hint: Using 'master' as the name for the initial branch. This default branch name
+convert	Checkout	2026-06-05T23:52:18.4092516Z hint: will change to "main" in Git 3.0. To configure the initial branch name
+convert	Checkout	2026-06-05T23:52:18.4093550Z hint: to use in all of your new repositories, which will suppress this warning,
+convert	Checkout	2026-06-05T23:52:18.4094528Z hint: call:
+convert	Checkout	2026-06-05T23:52:18.4095262Z hint:
+convert	Checkout	2026-06-05T23:52:18.4096162Z hint: 	git config --global init.defaultBranch <name>
+convert	Checkout	2026-06-05T23:52:18.4097507Z hint:
+convert	Checkout	2026-06-05T23:52:18.4098568Z hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+convert	Checkout	2026-06-05T23:52:18.4099642Z hint: 'development'. The just-created branch can be renamed via this command:
+convert	Checkout	2026-06-05T23:52:18.4100714Z hint:
+convert	Checkout	2026-06-05T23:52:18.4101195Z hint: 	git branch -m <name>
+convert	Checkout	2026-06-05T23:52:18.4101719Z hint:
+convert	Checkout	2026-06-05T23:52:18.4102390Z hint: Disable this message with "git config set advice.defaultBranchName false"
+convert	Checkout	2026-06-05T23:52:18.4103695Z Initialized empty Git repository in /home/runner/work/Khairul122/Khairul122/.git/
+convert	Checkout	2026-06-05T23:52:18.4109272Z [command]/usr/bin/git remote add origin https://github.com/Khairul122/Khairul122
+convert	Checkout	2026-06-05T23:52:18.4149765Z ##[endgroup]
+convert	Checkout	2026-06-05T23:52:18.4150904Z ##[group]Disabling automatic garbage collection
+convert	Checkout	2026-06-05T23:52:18.4153990Z [command]/usr/bin/git config --local gc.auto 0
+convert	Checkout	2026-06-05T23:52:18.4181616Z ##[endgroup]
+convert	Checkout	2026-06-05T23:52:18.4182409Z ##[group]Setting up auth
+convert	Checkout	2026-06-05T23:52:18.4188404Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+convert	Checkout	2026-06-05T23:52:18.4219988Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+convert	Checkout	2026-06-05T23:52:18.4559933Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+convert	Checkout	2026-06-05T23:52:18.4587995Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+convert	Checkout	2026-06-05T23:52:18.4799855Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+convert	Checkout	2026-06-05T23:52:18.4835817Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+convert	Checkout	2026-06-05T23:52:18.5054853Z [command]/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+convert	Checkout	2026-06-05T23:52:18.5088377Z ##[endgroup]
+convert	Checkout	2026-06-05T23:52:18.5089692Z ##[group]Fetching the repository
+convert	Checkout	2026-06-05T23:52:18.5097006Z [command]/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +0c61b14080480a08f84599b5618e4c3d70dafb95:refs/remotes/origin/main
+convert	Checkout	2026-06-05T23:52:18.7497114Z From https://github.com/Khairul122/Khairul122
+convert	Checkout	2026-06-05T23:52:18.7498176Z  * [new ref]         0c61b14080480a08f84599b5618e4c3d70dafb95 -> origin/main
+convert	Checkout	2026-06-05T23:52:18.7537076Z ##[endgroup]
+convert	Checkout	2026-06-05T23:52:18.7537898Z ##[group]Determining the checkout info
+convert	Checkout	2026-06-05T23:52:18.7539368Z ##[endgroup]
+convert	Checkout	2026-06-05T23:52:18.7545157Z [command]/usr/bin/git sparse-checkout disable
+convert	Checkout	2026-06-05T23:52:18.7594000Z [command]/usr/bin/git config --local --unset-all extensions.worktreeConfig
+convert	Checkout	2026-06-05T23:52:18.7622817Z ##[group]Checking out the ref
+convert	Checkout	2026-06-05T23:52:18.7629515Z [command]/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+convert	Checkout	2026-06-05T23:52:18.7696985Z Switched to a new branch 'main'
+convert	Checkout	2026-06-05T23:52:18.7699932Z branch 'main' set up to track 'origin/main'.
+convert	Checkout	2026-06-05T23:52:18.7707511Z ##[endgroup]
+convert	Checkout	2026-06-05T23:52:18.7748759Z [command]/usr/bin/git log -1 --format=%H
+convert	Checkout	2026-06-05T23:52:18.7770722Z 0c61b14080480a08f84599b5618e4c3d70dafb95
+convert	Checkout	2026-06-05T23:52:18.7785231Z ##[group]Removing auth
+convert	Checkout	2026-06-05T23:52:18.7786165Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+convert	Checkout	2026-06-05T23:52:18.7814764Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+convert	Checkout	2026-06-05T23:52:18.8028940Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+convert	Checkout	2026-06-05T23:52:18.8054349Z http.https://github.com/.extraheader
+convert	Checkout	2026-06-05T23:52:18.8062460Z [command]/usr/bin/git config --local --unset-all http.https://github.com/.extraheader
+convert	Checkout	2026-06-05T23:52:18.8092235Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+convert	Checkout	2026-06-05T23:52:18.8307972Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+convert	Checkout	2026-06-05T23:52:18.8335402Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+convert	Checkout	2026-06-05T23:52:18.8552444Z ##[endgroup]
+convert	Install image tools	∩╗┐2026-06-05T23:52:18.8720715Z ##[group]Run sudo apt-get update
+convert	Install image tools	2026-06-05T23:52:18.8721413Z [36;1msudo apt-get update[0m
+convert	Install image tools	2026-06-05T23:52:18.8722079Z [36;1msudo apt-get install -y imagemagick librsvg2-bin[0m
+convert	Install image tools	2026-06-05T23:52:18.8752321Z shell: /usr/bin/bash -e {0}
+convert	Install image tools	2026-06-05T23:52:18.8752914Z ##[endgroup]
+convert	Install image tools	2026-06-05T23:52:18.9577998Z Get:1 file:/etc/apt/apt-mirrors.txt Mirrorlist [144 B]
+convert	Install image tools	2026-06-05T23:52:18.9955327Z Hit:2 http://azure.archive.ubuntu.com/ubuntu noble InRelease
+convert	Install image tools	2026-06-05T23:52:18.9974785Z Get:6 https://packages.microsoft.com/repos/azure-cli noble InRelease [3564 B]
+convert	Install image tools	2026-06-05T23:52:18.9978055Z Get:7 https://packages.microsoft.com/ubuntu/24.04/prod noble InRelease [3600 B]
+convert	Install image tools	2026-06-05T23:52:18.9987060Z Get:3 http://azure.archive.ubuntu.com/ubuntu noble-updates InRelease [126 kB]
+convert	Install image tools	2026-06-05T23:52:19.0041561Z Get:4 http://azure.archive.ubuntu.com/ubuntu noble-backports InRelease [126 kB]
+convert	Install image tools	2026-06-05T23:52:19.0188979Z Get:5 http://azure.archive.ubuntu.com/ubuntu noble-security InRelease [126 kB]
+convert	Install image tools	2026-06-05T23:52:19.0468941Z Get:8 https://dl.google.com/linux/chrome-stable/deb stable InRelease [1825 B]
+convert	Install image tools	2026-06-05T23:52:19.1237097Z Get:9 https://packages.microsoft.com/repos/azure-cli noble/main amd64 Packages [2255 B]
+convert	Install image tools	2026-06-05T23:52:19.1655243Z Get:10 https://packages.microsoft.com/ubuntu/24.04/prod noble/main arm64 Packages [138 kB]
+convert	Install image tools	2026-06-05T23:52:19.1699926Z Get:11 https://packages.microsoft.com/ubuntu/24.04/prod noble/main amd64 Packages [168 kB]
+convert	Install image tools	2026-06-05T23:52:19.2124844Z Get:12 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 Packages [2064 kB]
+convert	Install image tools	2026-06-05T23:52:19.2254860Z Get:13 http://azure.archive.ubuntu.com/ubuntu noble-updates/main Translation-en [362 kB]
+convert	Install image tools	2026-06-05T23:52:19.2264766Z Get:14 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 Components [177 kB]
+convert	Install image tools	2026-06-05T23:52:19.2286058Z Get:15 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 c-n-f Metadata [17.4 kB]
+convert	Install image tools	2026-06-05T23:52:19.2322775Z Get:16 http://azure.archive.ubuntu.com/ubuntu noble-updates/universe amd64 Packages [1696 kB]
+convert	Install image tools	2026-06-05T23:52:19.2394184Z Get:17 http://azure.archive.ubuntu.com/ubuntu noble-updates/universe Translation-en [331 kB]
+convert	Install image tools	2026-06-05T23:52:19.2417818Z Get:18 http://azure.archive.ubuntu.com/ubuntu noble-updates/universe amd64 Components [386 kB]
+convert	Install image tools	2026-06-05T23:52:19.2452153Z Get:19 http://azure.archive.ubuntu.com/ubuntu noble-updates/universe amd64 c-n-f Metadata [34.6 kB]
+convert	Install image tools	2026-06-05T23:52:19.2458929Z Get:20 http://azure.archive.ubuntu.com/ubuntu noble-updates/restricted amd64 Packages [3299 kB]
+convert	Install image tools	2026-06-05T23:52:19.2684350Z Get:21 http://azure.archive.ubuntu.com/ubuntu noble-updates/restricted Translation-en [764 kB]
+convert	Install image tools	2026-06-05T23:52:19.3166036Z Get:22 http://azure.archive.ubuntu.com/ubuntu noble-updates/restricted amd64 c-n-f Metadata [456 B]
+convert	Install image tools	2026-06-05T23:52:19.3177120Z Get:23 http://azure.archive.ubuntu.com/ubuntu noble-updates/multiverse Translation-en [11.3 kB]
+convert	Install image tools	2026-06-05T23:52:19.3180028Z Get:24 http://azure.archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 Components [940 B]
+convert	Install image tools	2026-06-05T23:52:19.3182367Z Get:25 http://azure.archive.ubuntu.com/ubuntu noble-updates/multiverse amd64 c-n-f Metadata [656 B]
+convert	Install image tools	2026-06-05T23:52:19.3188059Z Get:26 http://azure.archive.ubuntu.com/ubuntu noble-backports/main amd64 Components [5764 B]
+convert	Install image tools	2026-06-05T23:52:19.3204074Z Get:27 http://azure.archive.ubuntu.com/ubuntu noble-backports/universe amd64 Components [10.5 kB]
+convert	Install image tools	2026-06-05T23:52:19.3220380Z Get:28 http://azure.archive.ubuntu.com/ubuntu noble-backports/universe amd64 c-n-f Metadata [1588 B]
+convert	Install image tools	2026-06-05T23:52:19.3462525Z Get:29 http://azure.archive.ubuntu.com/ubuntu noble-security/main amd64 Packages [1761 kB]
+convert	Install image tools	2026-06-05T23:52:19.3575863Z Get:30 http://azure.archive.ubuntu.com/ubuntu noble-security/main Translation-en [275 kB]
+convert	Install image tools	2026-06-05T23:52:19.3601054Z Get:31 http://azure.archive.ubuntu.com/ubuntu noble-security/main amd64 Components [42.4 kB]
+convert	Install image tools	2026-06-05T23:52:19.3617315Z Get:32 http://azure.archive.ubuntu.com/ubuntu noble-security/main amd64 c-n-f Metadata [11.4 kB]
+convert	Install image tools	2026-06-05T23:52:19.3632064Z Get:33 http://azure.archive.ubuntu.com/ubuntu noble-security/universe amd64 Packages [1194 kB]
+convert	Install image tools	2026-06-05T23:52:19.3696135Z Get:34 http://azure.archive.ubuntu.com/ubuntu noble-security/universe Translation-en [231 kB]
+convert	Install image tools	2026-06-05T23:52:19.3717416Z Get:35 http://azure.archive.ubuntu.com/ubuntu noble-security/universe amd64 Components [74.2 kB]
+convert	Install image tools	2026-06-05T23:52:19.3734424Z Get:36 http://azure.archive.ubuntu.com/ubuntu noble-security/universe amd64 c-n-f Metadata [23.2 kB]
+convert	Install image tools	2026-06-05T23:52:19.4176714Z Get:37 http://azure.archive.ubuntu.com/ubuntu noble-security/restricted amd64 Packages [3106 kB]
+convert	Install image tools	2026-06-05T23:52:19.4298707Z Get:42 https://dl.google.com/linux/chrome-stable/deb stable/main amd64 Packages [1207 B]
+convert	Install image tools	2026-06-05T23:52:19.4330082Z Get:38 http://azure.archive.ubuntu.com/ubuntu noble-security/restricted Translation-en [721 kB]
+convert	Install image tools	2026-06-05T23:52:19.4368699Z Get:39 http://azure.archive.ubuntu.com/ubuntu noble-security/restricted amd64 c-n-f Metadata [444 B]
+convert	Install image tools	2026-06-05T23:52:19.4379205Z Get:40 http://azure.archive.ubuntu.com/ubuntu noble-security/multiverse Translation-en [9248 B]
+convert	Install image tools	2026-06-05T23:52:19.4389770Z Get:41 http://azure.archive.ubuntu.com/ubuntu noble-security/multiverse amd64 c-n-f Metadata [468 B]
+convert	Install image tools	2026-06-05T23:52:28.0313206Z Fetched 17.3 MB in 2s (8917 kB/s)
+convert	Install image tools	2026-06-05T23:52:28.7846695Z Reading package lists...
+convert	Install image tools	2026-06-05T23:52:28.8161092Z Reading package lists...
+convert	Install image tools	2026-06-05T23:52:28.9699375Z Building dependency tree...
+convert	Install image tools	2026-06-05T23:52:28.9706669Z Reading state information...
+convert	Install image tools	2026-06-05T23:52:29.1104239Z The following additional packages will be installed:
+convert	Install image tools	2026-06-05T23:52:29.1117364Z   fonts-droid-fallback fonts-noto-mono fonts-urw-base35 ghostscript
+convert	Install image tools	2026-06-05T23:52:29.1118496Z   imagemagick-6.q16 libdjvulibre-text libdjvulibre21 libgs-common libgs10
+convert	Install image tools	2026-06-05T23:52:29.1119623Z   libgs10-common libidn12 libijs-0.35 libimath-3-1-29t64 libjbig2dec0
+convert	Install image tools	2026-06-05T23:52:29.1120887Z   libjxr-tools libjxr0t64 libmagickcore-6.q16-7-extra libnetpbm11t64
+convert	Install image tools	2026-06-05T23:52:29.1121988Z   libopenexr-3-1-30 libpaper-utils libpaper1 librsvg2-2 librsvg2-common
+convert	Install image tools	2026-06-05T23:52:29.1123064Z   libwmflite-0.2-7 netpbm poppler-data xfonts-encodings xfonts-utils
+convert	Install image tools	2026-06-05T23:52:29.1123847Z Suggested packages:
+convert	Install image tools	2026-06-05T23:52:29.1124581Z   fonts-noto fonts-freefont-otf | fonts-freefont-ttf fonts-texgyre
+convert	Install image tools	2026-06-05T23:52:29.1125741Z   texlive-binaries imagemagick-6-doc autotrace cups-bsd | lpr | lprng enscript
+convert	Install image tools	2026-06-05T23:52:29.1126922Z   ffmpeg gimp gnuplot grads graphviz hp2xx html2ps libwmf-bin mplayer povray
+convert	Install image tools	2026-06-05T23:52:29.1127946Z   radiance sane-utils texlive-base-bin transfig libraw-bin inkscape
+convert	Install image tools	2026-06-05T23:52:29.1128900Z   poppler-utils fonts-japanese-mincho | fonts-ipafont-mincho
+convert	Install image tools	2026-06-05T23:52:29.1129820Z   fonts-japanese-gothic | fonts-ipafont-gothic fonts-arphic-ukai
+convert	Install image tools	2026-06-05T23:52:29.1130863Z   fonts-arphic-uming fonts-nanum
+convert	Install image tools	2026-06-05T23:52:29.1407729Z The following NEW packages will be installed:
+convert	Install image tools	2026-06-05T23:52:29.1408661Z   fonts-droid-fallback fonts-noto-mono fonts-urw-base35 ghostscript
+convert	Install image tools	2026-06-05T23:52:29.1410110Z   imagemagick imagemagick-6.q16 libdjvulibre-text libdjvulibre21 libgs-common
+convert	Install image tools	2026-06-05T23:52:29.1411475Z   libgs10 libgs10-common libidn12 libijs-0.35 libimath-3-1-29t64 libjbig2dec0
+convert	Install image tools	2026-06-05T23:52:29.1412751Z   libjxr-tools libjxr0t64 libmagickcore-6.q16-7-extra libnetpbm11t64
+convert	Install image tools	2026-06-05T23:52:29.1415621Z   libopenexr-3-1-30 libpaper-utils libpaper1 librsvg2-2 librsvg2-bin
+convert	Install image tools	2026-06-05T23:52:29.1416975Z   librsvg2-common libwmflite-0.2-7 netpbm poppler-data xfonts-encodings
+convert	Install image tools	2026-06-05T23:52:29.1418305Z   xfonts-utils
+convert	Install image tools	2026-06-05T23:52:29.1590911Z 0 upgraded, 30 newly installed, 0 to remove and 72 not upgraded.
+convert	Install image tools	2026-06-05T23:52:29.1591863Z Need to get 29.7 MB of archives.
+convert	Install image tools	2026-06-05T23:52:29.1592432Z After this operation, 99.8 MB of additional disk space will be used.
+convert	Install image tools	2026-06-05T23:52:29.1592955Z Get:1 file:/etc/apt/apt-mirrors.txt Mirrorlist [144 B]
+convert	Install image tools	2026-06-05T23:52:29.1952585Z Get:2 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 fonts-droid-fallback all 1:6.0.1r16-1.1build1 [1805 kB]
+convert	Install image tools	2026-06-05T23:52:29.2421612Z Get:3 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 poppler-data all 0.4.12-1 [2060 kB]
+convert	Install image tools	2026-06-05T23:52:29.2961219Z Get:4 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 fonts-noto-mono all 20201225-2 [435 kB]
+convert	Install image tools	2026-06-05T23:52:29.3273708Z Get:5 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 xfonts-encodings all 1:1.0.5-0ubuntu2 [578 kB]
+convert	Install image tools	2026-06-05T23:52:29.3630194Z Get:6 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 xfonts-utils amd64 1:7.7+6build3 [94.4 kB]
+convert	Install image tools	2026-06-05T23:52:29.3877184Z Get:7 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 fonts-urw-base35 all 20200910-8 [11.0 MB]
+convert	Install image tools	2026-06-05T23:52:29.6578415Z Get:8 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 libgs-common all 10.02.1~dfsg1-0ubuntu7.8 [176 kB]
+convert	Install image tools	2026-06-05T23:52:29.6886023Z Get:9 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 libgs10-common all 10.02.1~dfsg1-0ubuntu7.8 [488 kB]
+convert	Install image tools	2026-06-05T23:52:29.7200842Z Get:10 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 libidn12 amd64 1.42-1build1 [55.9 kB]
+convert	Install image tools	2026-06-05T23:52:29.7431528Z Get:11 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 libijs-0.35 amd64 0.35-15.1build1 [15.3 kB]
+convert	Install image tools	2026-06-05T23:52:29.7657270Z Get:12 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 libjbig2dec0 amd64 0.20-1build3 [65.0 kB]
+convert	Install image tools	2026-06-05T23:52:29.7915208Z Get:13 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 libpaper1 amd64 1.1.29build1 [13.4 kB]
+convert	Install image tools	2026-06-05T23:52:29.8136879Z Get:14 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 libgs10 amd64 10.02.1~dfsg1-0ubuntu7.8 [3897 kB]
+convert	Install image tools	2026-06-05T23:52:29.9247826Z Get:15 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 ghostscript amd64 10.02.1~dfsg1-0ubuntu7.8 [43.4 kB]
+convert	Install image tools	2026-06-05T23:52:29.9487057Z Get:16 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 imagemagick-6.q16 amd64 8:6.9.12.98+dfsg1-5.2build2 [254 kB]
+convert	Install image tools	2026-06-05T23:52:29.9776624Z Get:17 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 imagemagick amd64 8:6.9.12.98+dfsg1-5.2build2 [14.2 kB]
+convert	Install image tools	2026-06-05T23:52:30.0000126Z Get:18 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 libdjvulibre-text all 3.5.28-2ubuntu0.24.04.2 [51.1 kB]
+convert	Install image tools	2026-06-05T23:52:30.0224725Z Get:19 http://azure.archive.ubuntu.com/ubuntu noble-updates/main amd64 libdjvulibre21 amd64 3.5.28-2ubuntu0.24.04.2 [638 kB]
+convert	Install image tools	2026-06-05T23:52:30.0939591Z Get:20 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 libimath-3-1-29t64 amd64 3.1.9-3.1ubuntu2 [72.2 kB]
+convert	Install image tools	2026-06-05T23:52:30.1178612Z Get:21 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 libjxr0t64 amd64 1.2~git20170615.f752187-5.1ubuntu2 [181 kB]
+convert	Install image tools	2026-06-05T23:52:30.1421597Z Get:22 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 libjxr-tools amd64 1.2~git20170615.f752187-5.1ubuntu2 [15.8 kB]
+convert	Install image tools	2026-06-05T23:52:30.1670100Z Get:23 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 libopenexr-3-1-30 amd64 3.1.5-5.1build3 [1004 kB]
+convert	Install image tools	2026-06-05T23:52:30.2160298Z Get:24 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 libwmflite-0.2-7 amd64 0.2.13-1.1build3 [68.6 kB]
+convert	Install image tools	2026-06-05T23:52:30.2390081Z Get:25 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 libmagickcore-6.q16-7-extra amd64 8:6.9.12.98+dfsg1-5.2build2 [70.1 kB]
+convert	Install image tools	2026-06-05T23:52:30.2616255Z Get:26 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 libnetpbm11t64 amd64 2:11.05.02-1.1build1 [114 kB]
+convert	Install image tools	2026-06-05T23:52:30.2852428Z Get:27 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 libpaper-utils amd64 1.1.29build1 [8650 B]
+convert	Install image tools	2026-06-05T23:52:30.3075319Z Get:28 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 librsvg2-2 amd64 2.58.0+dfsg-1build1 [2135 kB]
+convert	Install image tools	2026-06-05T23:52:30.3733248Z Get:29 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 librsvg2-bin amd64 2.58.0+dfsg-1build1 [2299 kB]
+convert	Install image tools	2026-06-05T23:52:30.4375359Z Get:30 http://azure.archive.ubuntu.com/ubuntu noble/main amd64 librsvg2-common amd64 2.58.0+dfsg-1build1 [11.8 kB]
+convert	Install image tools	2026-06-05T23:52:30.4593059Z Get:31 http://azure.archive.ubuntu.com/ubuntu noble/universe amd64 netpbm amd64 2:11.05.02-1.1build1 [2054 kB]
+convert	Install image tools	2026-06-05T23:52:30.7123353Z Preconfiguring packages ...
+convert	Install image tools	2026-06-05T23:52:30.7709043Z Fetched 29.7 MB in 1s (22.0 MB/s)
+convert	Install image tools	2026-06-05T23:52:30.7964716Z Selecting previously unselected package fonts-droid-fallback.
+convert	Install image tools	2026-06-05T23:52:30.8265264Z (Reading database ... 
+convert	Install image tools	2026-06-05T23:52:30.8265864Z (Reading database ... 5%
+convert	Install image tools	2026-06-05T23:52:30.8266265Z (Reading database ... 10%
+convert	Install image tools	2026-06-05T23:52:30.8266619Z (Reading database ... 15%
+convert	Install image tools	2026-06-05T23:52:30.8266965Z (Reading database ... 20%
+convert	Install image tools	2026-06-05T23:52:30.8267302Z (Reading database ... 25%
+convert	Install image tools	2026-06-05T23:52:30.8267632Z (Reading database ... 30%
+convert	Install image tools	2026-06-05T23:52:30.8268629Z (Reading database ... 35%
+convert	Install image tools	2026-06-05T23:52:30.8269194Z (Reading database ... 40%
+convert	Install image tools	2026-06-05T23:52:30.8269545Z (Reading database ... 45%
+convert	Install image tools	2026-06-05T23:52:30.8269872Z (Reading database ... 50%
+convert	Install image tools	2026-06-05T23:52:30.8501735Z (Reading database ... 55%
+convert	Install image tools	2026-06-05T23:52:30.9886816Z (Reading database ... 60%
+convert	Install image tools	2026-06-05T23:52:31.1374332Z (Reading database ... 65%
+convert	Install image tools	2026-06-05T23:52:31.3063242Z (Reading database ... 70%
+convert	Install image tools	2026-06-05T23:52:31.4381039Z (Reading database ... 75%
+convert	Install image tools	2026-06-05T23:52:31.6376514Z (Reading database ... 80%
+convert	Install image tools	2026-06-05T23:52:31.8007049Z (Reading database ... 85%
+convert	Install image tools	2026-06-05T23:52:31.9502131Z (Reading database ... 90%
+convert	Install image tools	2026-06-05T23:52:32.1067818Z (Reading database ... 95%
+convert	Install image tools	2026-06-05T23:52:32.1068450Z (Reading database ... 100%
+convert	Install image tools	2026-06-05T23:52:32.1068985Z (Reading database ... 202271 files and directories currently installed.)
+convert	Install image tools	2026-06-05T23:52:32.1105716Z Preparing to unpack .../00-fonts-droid-fallback_1%3a6.0.1r16-1.1build1_all.deb ...
+convert	Install image tools	2026-06-05T23:52:32.1324053Z Unpacking fonts-droid-fallback (1:6.0.1r16-1.1build1) ...
+convert	Install image tools	2026-06-05T23:52:32.2740097Z Selecting previously unselected package poppler-data.
+convert	Install image tools	2026-06-05T23:52:32.2864058Z Preparing to unpack .../01-poppler-data_0.4.12-1_all.deb ...
+convert	Install image tools	2026-06-05T23:52:32.2874658Z Unpacking poppler-data (0.4.12-1) ...
+convert	Install image tools	2026-06-05T23:52:32.4131854Z Selecting previously unselected package fonts-noto-mono.
+convert	Install image tools	2026-06-05T23:52:32.4257107Z Preparing to unpack .../02-fonts-noto-mono_20201225-2_all.deb ...
+convert	Install image tools	2026-06-05T23:52:32.4270967Z Unpacking fonts-noto-mono (20201225-2) ...
+convert	Install image tools	2026-06-05T23:52:32.4550133Z Selecting previously unselected package xfonts-encodings.
+convert	Install image tools	2026-06-05T23:52:32.4673164Z Preparing to unpack .../03-xfonts-encodings_1%3a1.0.5-0ubuntu2_all.deb ...
+convert	Install image tools	2026-06-05T23:52:32.4684282Z Unpacking xfonts-encodings (1:1.0.5-0ubuntu2) ...
+convert	Install image tools	2026-06-05T23:52:32.4993719Z Selecting previously unselected package xfonts-utils.
+convert	Install image tools	2026-06-05T23:52:32.5116205Z Preparing to unpack .../04-xfonts-utils_1%3a7.7+6build3_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:32.5141222Z Unpacking xfonts-utils (1:7.7+6build3) ...
+convert	Install image tools	2026-06-05T23:52:32.5497546Z Selecting previously unselected package fonts-urw-base35.
+convert	Install image tools	2026-06-05T23:52:32.5619103Z Preparing to unpack .../05-fonts-urw-base35_20200910-8_all.deb ...
+convert	Install image tools	2026-06-05T23:52:32.6248076Z Unpacking fonts-urw-base35 (20200910-8) ...
+convert	Install image tools	2026-06-05T23:52:32.7215715Z Selecting previously unselected package libgs-common.
+convert	Install image tools	2026-06-05T23:52:32.7343752Z Preparing to unpack .../06-libgs-common_10.02.1~dfsg1-0ubuntu7.8_all.deb ...
+convert	Install image tools	2026-06-05T23:52:32.7356649Z Unpacking libgs-common (10.02.1~dfsg1-0ubuntu7.8) ...
+convert	Install image tools	2026-06-05T23:52:32.7619797Z Selecting previously unselected package libgs10-common.
+convert	Install image tools	2026-06-05T23:52:32.7745988Z Preparing to unpack .../07-libgs10-common_10.02.1~dfsg1-0ubuntu7.8_all.deb ...
+convert	Install image tools	2026-06-05T23:52:32.7756515Z Unpacking libgs10-common (10.02.1~dfsg1-0ubuntu7.8) ...
+convert	Install image tools	2026-06-05T23:52:32.8414738Z Selecting previously unselected package libidn12:amd64.
+convert	Install image tools	2026-06-05T23:52:32.8538743Z Preparing to unpack .../08-libidn12_1.42-1build1_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:32.8562856Z Unpacking libidn12:amd64 (1.42-1build1) ...
+convert	Install image tools	2026-06-05T23:52:32.8789303Z Selecting previously unselected package libijs-0.35:amd64.
+convert	Install image tools	2026-06-05T23:52:32.8913505Z Preparing to unpack .../09-libijs-0.35_0.35-15.1build1_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:32.8924142Z Unpacking libijs-0.35:amd64 (0.35-15.1build1) ...
+convert	Install image tools	2026-06-05T23:52:32.9140009Z Selecting previously unselected package libjbig2dec0:amd64.
+convert	Install image tools	2026-06-05T23:52:32.9263748Z Preparing to unpack .../10-libjbig2dec0_0.20-1build3_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:32.9277261Z Unpacking libjbig2dec0:amd64 (0.20-1build3) ...
+convert	Install image tools	2026-06-05T23:52:32.9516556Z Selecting previously unselected package libpaper1:amd64.
+convert	Install image tools	2026-06-05T23:52:32.9636407Z Preparing to unpack .../11-libpaper1_1.1.29build1_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:32.9647792Z Unpacking libpaper1:amd64 (1.1.29build1) ...
+convert	Install image tools	2026-06-05T23:52:32.9898133Z Selecting previously unselected package libgs10:amd64.
+convert	Install image tools	2026-06-05T23:52:33.0018739Z Preparing to unpack .../12-libgs10_10.02.1~dfsg1-0ubuntu7.8_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.0032441Z Unpacking libgs10:amd64 (10.02.1~dfsg1-0ubuntu7.8) ...
+convert	Install image tools	2026-06-05T23:52:33.0999286Z Selecting previously unselected package ghostscript.
+convert	Install image tools	2026-06-05T23:52:33.1126910Z Preparing to unpack .../13-ghostscript_10.02.1~dfsg1-0ubuntu7.8_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.1138204Z Unpacking ghostscript (10.02.1~dfsg1-0ubuntu7.8) ...
+convert	Install image tools	2026-06-05T23:52:33.1504792Z Selecting previously unselected package imagemagick-6.q16.
+convert	Install image tools	2026-06-05T23:52:33.1628945Z Preparing to unpack .../14-imagemagick-6.q16_8%3a6.9.12.98+dfsg1-5.2build2_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.1638832Z Unpacking imagemagick-6.q16 (8:6.9.12.98+dfsg1-5.2build2) ...
+convert	Install image tools	2026-06-05T23:52:33.2024250Z Selecting previously unselected package imagemagick.
+convert	Install image tools	2026-06-05T23:52:33.2150058Z Preparing to unpack .../15-imagemagick_8%3a6.9.12.98+dfsg1-5.2build2_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.2160108Z Unpacking imagemagick (8:6.9.12.98+dfsg1-5.2build2) ...
+convert	Install image tools	2026-06-05T23:52:33.2360141Z Selecting previously unselected package libdjvulibre-text.
+convert	Install image tools	2026-06-05T23:52:33.2483810Z Preparing to unpack .../16-libdjvulibre-text_3.5.28-2ubuntu0.24.04.2_all.deb ...
+convert	Install image tools	2026-06-05T23:52:33.2493116Z Unpacking libdjvulibre-text (3.5.28-2ubuntu0.24.04.2) ...
+convert	Install image tools	2026-06-05T23:52:33.2742868Z Selecting previously unselected package libdjvulibre21:amd64.
+convert	Install image tools	2026-06-05T23:52:33.2865255Z Preparing to unpack .../17-libdjvulibre21_3.5.28-2ubuntu0.24.04.2_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.2893468Z Unpacking libdjvulibre21:amd64 (3.5.28-2ubuntu0.24.04.2) ...
+convert	Install image tools	2026-06-05T23:52:33.3179798Z Selecting previously unselected package libimath-3-1-29t64:amd64.
+convert	Install image tools	2026-06-05T23:52:33.3301220Z Preparing to unpack .../18-libimath-3-1-29t64_3.1.9-3.1ubuntu2_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.3312510Z Unpacking libimath-3-1-29t64:amd64 (3.1.9-3.1ubuntu2) ...
+convert	Install image tools	2026-06-05T23:52:33.3550397Z Selecting previously unselected package libjxr0t64:amd64.
+convert	Install image tools	2026-06-05T23:52:33.3672246Z Preparing to unpack .../19-libjxr0t64_1.2~git20170615.f752187-5.1ubuntu2_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.3682540Z Unpacking libjxr0t64:amd64 (1.2~git20170615.f752187-5.1ubuntu2) ...
+convert	Install image tools	2026-06-05T23:52:33.3915900Z Selecting previously unselected package libjxr-tools.
+convert	Install image tools	2026-06-05T23:52:33.4041642Z Preparing to unpack .../20-libjxr-tools_1.2~git20170615.f752187-5.1ubuntu2_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.4052392Z Unpacking libjxr-tools (1.2~git20170615.f752187-5.1ubuntu2) ...
+convert	Install image tools	2026-06-05T23:52:33.4262095Z Selecting previously unselected package libopenexr-3-1-30:amd64.
+convert	Install image tools	2026-06-05T23:52:33.4381091Z Preparing to unpack .../21-libopenexr-3-1-30_3.1.5-5.1build3_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.4391603Z Unpacking libopenexr-3-1-30:amd64 (3.1.5-5.1build3) ...
+convert	Install image tools	2026-06-05T23:52:33.4752698Z Selecting previously unselected package libwmflite-0.2-7:amd64.
+convert	Install image tools	2026-06-05T23:52:33.4873947Z Preparing to unpack .../22-libwmflite-0.2-7_0.2.13-1.1build3_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.4883806Z Unpacking libwmflite-0.2-7:amd64 (0.2.13-1.1build3) ...
+convert	Install image tools	2026-06-05T23:52:33.5095468Z Selecting previously unselected package libmagickcore-6.q16-7-extra:amd64.
+convert	Install image tools	2026-06-05T23:52:33.5215295Z Preparing to unpack .../23-libmagickcore-6.q16-7-extra_8%3a6.9.12.98+dfsg1-5.2build2_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.5224918Z Unpacking libmagickcore-6.q16-7-extra:amd64 (8:6.9.12.98+dfsg1-5.2build2) ...
+convert	Install image tools	2026-06-05T23:52:33.5478226Z Selecting previously unselected package libnetpbm11t64:amd64.
+convert	Install image tools	2026-06-05T23:52:33.5598434Z Preparing to unpack .../24-libnetpbm11t64_2%3a11.05.02-1.1build1_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.5612085Z Unpacking libnetpbm11t64:amd64 (2:11.05.02-1.1build1) ...
+convert	Install image tools	2026-06-05T23:52:33.5835187Z Selecting previously unselected package libpaper-utils.
+convert	Install image tools	2026-06-05T23:52:33.5954669Z Preparing to unpack .../25-libpaper-utils_1.1.29build1_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.5966622Z Unpacking libpaper-utils (1.1.29build1) ...
+convert	Install image tools	2026-06-05T23:52:33.6214974Z Selecting previously unselected package librsvg2-2:amd64.
+convert	Install image tools	2026-06-05T23:52:33.6340177Z Preparing to unpack .../26-librsvg2-2_2.58.0+dfsg-1build1_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.6352377Z Unpacking librsvg2-2:amd64 (2.58.0+dfsg-1build1) ...
+convert	Install image tools	2026-06-05T23:52:33.6803786Z Selecting previously unselected package librsvg2-bin.
+convert	Install image tools	2026-06-05T23:52:33.6929887Z Preparing to unpack .../27-librsvg2-bin_2.58.0+dfsg-1build1_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.6940605Z Unpacking librsvg2-bin (2.58.0+dfsg-1build1) ...
+convert	Install image tools	2026-06-05T23:52:33.7415763Z Selecting previously unselected package librsvg2-common:amd64.
+convert	Install image tools	2026-06-05T23:52:33.7541542Z Preparing to unpack .../28-librsvg2-common_2.58.0+dfsg-1build1_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.7551210Z Unpacking librsvg2-common:amd64 (2.58.0+dfsg-1build1) ...
+convert	Install image tools	2026-06-05T23:52:33.7836502Z Selecting previously unselected package netpbm.
+convert	Install image tools	2026-06-05T23:52:33.7958834Z Preparing to unpack .../29-netpbm_2%3a11.05.02-1.1build1_amd64.deb ...
+convert	Install image tools	2026-06-05T23:52:33.7968985Z Unpacking netpbm (2:11.05.02-1.1build1) ...
+convert	Install image tools	2026-06-05T23:52:33.9812683Z Setting up libpaper1:amd64 (1.1.29build1) ...
+convert	Install image tools	2026-06-05T23:52:34.1056444Z 
+convert	Install image tools	2026-06-05T23:52:34.1056869Z Creating config file /etc/papersize with new version
+convert	Install image tools	2026-06-05T23:52:34.1480493Z Setting up fonts-noto-mono (20201225-2) ...
+convert	Install image tools	2026-06-05T23:52:34.1515184Z Setting up libwmflite-0.2-7:amd64 (0.2.13-1.1build3) ...
+convert	Install image tools	2026-06-05T23:52:34.1548011Z Setting up libijs-0.35:amd64 (0.35-15.1build1) ...
+convert	Install image tools	2026-06-05T23:52:34.1576893Z Setting up libgs-common (10.02.1~dfsg1-0ubuntu7.8) ...
+convert	Install image tools	2026-06-05T23:52:34.1610111Z Setting up libpaper-utils (1.1.29build1) ...
+convert	Install image tools	2026-06-05T23:52:34.1637263Z Setting up libnetpbm11t64:amd64 (2:11.05.02-1.1build1) ...
+convert	Install image tools	2026-06-05T23:52:34.1663757Z Setting up poppler-data (0.4.12-1) ...
+convert	Install image tools	2026-06-05T23:52:34.1797904Z Setting up librsvg2-2:amd64 (2.58.0+dfsg-1build1) ...
+convert	Install image tools	2026-06-05T23:52:34.1823761Z Setting up libjxr0t64:amd64 (1.2~git20170615.f752187-5.1ubuntu2) ...
+convert	Install image tools	2026-06-05T23:52:34.1853328Z Setting up libjbig2dec0:amd64 (0.20-1build3) ...
+convert	Install image tools	2026-06-05T23:52:34.1879143Z Setting up xfonts-encodings (1:1.0.5-0ubuntu2) ...
+convert	Install image tools	2026-06-05T23:52:34.1906237Z Setting up libimath-3-1-29t64:amd64 (3.1.9-3.1ubuntu2) ...
+convert	Install image tools	2026-06-05T23:52:34.1934344Z Setting up libidn12:amd64 (1.42-1build1) ...
+convert	Install image tools	2026-06-05T23:52:34.1964116Z Setting up librsvg2-common:amd64 (2.58.0+dfsg-1build1) ...
+convert	Install image tools	2026-06-05T23:52:34.2023742Z Setting up netpbm (2:11.05.02-1.1build1) ...
+convert	Install image tools	2026-06-05T23:52:34.2052870Z Setting up imagemagick-6.q16 (8:6.9.12.98+dfsg1-5.2build2) ...
+convert	Install image tools	2026-06-05T23:52:34.2127714Z update-alternatives: using /usr/bin/compare-im6.q16 to provide /usr/bin/compare (compare) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2173633Z update-alternatives: using /usr/bin/compare-im6.q16 to provide /usr/bin/compare-im6 (compare-im6) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2230151Z update-alternatives: using /usr/bin/animate-im6.q16 to provide /usr/bin/animate (animate) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2277169Z update-alternatives: using /usr/bin/animate-im6.q16 to provide /usr/bin/animate-im6 (animate-im6) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2334101Z update-alternatives: using /usr/bin/convert-im6.q16 to provide /usr/bin/convert (convert) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2381120Z update-alternatives: using /usr/bin/convert-im6.q16 to provide /usr/bin/convert-im6 (convert-im6) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2438241Z update-alternatives: using /usr/bin/composite-im6.q16 to provide /usr/bin/composite (composite) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2486957Z update-alternatives: using /usr/bin/composite-im6.q16 to provide /usr/bin/composite-im6 (composite-im6) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2544729Z update-alternatives: using /usr/bin/conjure-im6.q16 to provide /usr/bin/conjure (conjure) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2591981Z update-alternatives: using /usr/bin/conjure-im6.q16 to provide /usr/bin/conjure-im6 (conjure-im6) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2650024Z update-alternatives: using /usr/bin/import-im6.q16 to provide /usr/bin/import (import) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2699007Z update-alternatives: using /usr/bin/import-im6.q16 to provide /usr/bin/import-im6 (import-im6) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2757218Z update-alternatives: using /usr/bin/identify-im6.q16 to provide /usr/bin/identify (identify) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2804526Z update-alternatives: using /usr/bin/identify-im6.q16 to provide /usr/bin/identify-im6 (identify-im6) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2862633Z update-alternatives: using /usr/bin/stream-im6.q16 to provide /usr/bin/stream (stream) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2909830Z update-alternatives: using /usr/bin/stream-im6.q16 to provide /usr/bin/stream-im6 (stream-im6) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.2968403Z update-alternatives: using /usr/bin/display-im6.q16 to provide /usr/bin/display (display) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.3016627Z update-alternatives: using /usr/bin/display-im6.q16 to provide /usr/bin/display-im6 (display-im6) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.3074634Z update-alternatives: using /usr/bin/montage-im6.q16 to provide /usr/bin/montage (montage) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.3123811Z update-alternatives: using /usr/bin/montage-im6.q16 to provide /usr/bin/montage-im6 (montage-im6) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.3183099Z update-alternatives: using /usr/bin/mogrify-im6.q16 to provide /usr/bin/mogrify (mogrify) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.3234161Z update-alternatives: using /usr/bin/mogrify-im6.q16 to provide /usr/bin/mogrify-im6 (mogrify-im6) in auto mode
+convert	Install image tools	2026-06-05T23:52:34.3262532Z Setting up fonts-droid-fallback (1:6.0.1r16-1.1build1) ...
+convert	Install image tools	2026-06-05T23:52:34.3469899Z Setting up libdjvulibre-text (3.5.28-2ubuntu0.24.04.2) ...
+convert	Install image tools	2026-06-05T23:52:34.3497243Z Setting up librsvg2-bin (2.58.0+dfsg-1build1) ...
+convert	Install image tools	2026-06-05T23:52:34.3525251Z Setting up libjxr-tools (1.2~git20170615.f752187-5.1ubuntu2) ...
+convert	Install image tools	2026-06-05T23:52:34.3550745Z Setting up libdjvulibre21:amd64 (3.5.28-2ubuntu0.24.04.2) ...
+convert	Install image tools	2026-06-05T23:52:34.3581528Z Setting up xfonts-utils (1:7.7+6build3) ...
+convert	Install image tools	2026-06-05T23:52:34.3630386Z Setting up libopenexr-3-1-30:amd64 (3.1.5-5.1build3) ...
+convert	Install image tools	2026-06-05T23:52:34.3658185Z Setting up imagemagick (8:6.9.12.98+dfsg1-5.2build2) ...
+convert	Install image tools	2026-06-05T23:52:34.3686789Z Setting up libmagickcore-6.q16-7-extra:amd64 (8:6.9.12.98+dfsg1-5.2build2) ...
+convert	Install image tools	2026-06-05T23:52:34.3726825Z Setting up fonts-urw-base35 (20200910-8) ...
+convert	Install image tools	2026-06-05T23:52:34.5047996Z Setting up libgs10-common (10.02.1~dfsg1-0ubuntu7.8) ...
+convert	Install image tools	2026-06-05T23:52:34.5077166Z Setting up libgs10:amd64 (10.02.1~dfsg1-0ubuntu7.8) ...
+convert	Install image tools	2026-06-05T23:52:34.5107670Z Setting up ghostscript (10.02.1~dfsg1-0ubuntu7.8) ...
+convert	Install image tools	2026-06-05T23:52:34.5191412Z Processing triggers for libgdk-pixbuf-2.0-0:amd64 (2.42.10+dfsg-3ubuntu3.3) ...
+convert	Install image tools	2026-06-05T23:52:34.7632648Z Processing triggers for fontconfig (2.15.0-1.1ubuntu2) ...
+convert	Install image tools	2026-06-05T23:52:34.9326867Z Processing triggers for hicolor-icon-theme (0.17-2) ...
+convert	Install image tools	2026-06-05T23:52:35.0862206Z Processing triggers for libc-bin (2.39-0ubuntu8.7) ...
+convert	Install image tools	2026-06-05T23:52:35.1186170Z Processing triggers for man-db (2.12.0-4build2) ...
+convert	Install image tools	2026-06-05T23:52:35.1208456Z Not building database; man-db/auto-update is not 'true'.
+convert	Install image tools	2026-06-05T23:52:35.7444397Z 
+convert	Install image tools	2026-06-05T23:52:35.7445131Z Running kernel seems to be up-to-date.
+convert	Install image tools	2026-06-05T23:52:35.7445518Z 
+convert	Install image tools	2026-06-05T23:52:35.7446049Z No services need to be restarted.
+convert	Install image tools	2026-06-05T23:52:35.7446368Z 
+convert	Install image tools	2026-06-05T23:52:35.7446536Z No containers need to be restarted.
+convert	Install image tools	2026-06-05T23:52:35.7446832Z 
+convert	Install image tools	2026-06-05T23:52:35.7447265Z No user sessions are running outdated binaries.
+convert	Install image tools	2026-06-05T23:52:35.7447642Z 
+convert	Install image tools	2026-06-05T23:52:35.7447967Z No VM guests are running outdated hypervisor (qemu) binaries on this host.
+convert	Convert SVGs to PNG fallbacks	∩╗┐2026-06-05T23:52:36.5227034Z ##[group]Run set -e
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5227320Z [36;1mset -e[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5227583Z [36;1m# Find SVGs to convert (root and docs)[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5227951Z [36;1mfiles=$(git ls-files "*.svg" "docs/**/*.svg" || true)[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5228287Z [36;1mecho "Found: $files"[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5228522Z [36;1mfor f in $files; do[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5228794Z [36;1m  out="docs/$(basename "${f%.svg}.png")"[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5229133Z [36;1m  mkdir -p "$(dirname "$out")"[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5229468Z [36;1m  if command -v rsvg-convert >/dev/null 2>&1; then[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5229844Z [36;1m    echo "Converting $f -> $out with rsvg-convert"[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5230269Z [36;1m    rsvg-convert "$f" -o "$out" || convert -background none "$f" "$out"[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5231002Z [36;1m  else[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5231266Z [36;1m    echo "Converting $f -> $out with convert"[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5231595Z [36;1m    convert -background none "$f" "$out"[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5231912Z [36;1m  fi[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5232101Z [36;1mdone[0m
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5259544Z shell: /usr/bin/bash -e {0}
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5259812Z ##[endgroup]
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5322760Z Found: docs/github-contribution-grid-snake-dark.svg
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5323422Z docs/github-contribution-grid-snake.svg
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5324075Z github-contribution-grid-snake-dark.svg
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5324486Z github-contribution-grid-snake.svg
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5324811Z scripts/metrics-badge.svg
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5325071Z scripts/trophy.svg
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5325279Z trophy.svg
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.5359479Z Converting docs/github-contribution-grid-snake-dark.svg -> docs/github-contribution-grid-snake-dark.png with rsvg-convert
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.6217099Z Converting docs/github-contribution-grid-snake.svg -> docs/github-contribution-grid-snake.png with rsvg-convert
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.6494225Z Converting github-contribution-grid-snake-dark.svg -> docs/github-contribution-grid-snake-dark.png with rsvg-convert
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.6775027Z Converting github-contribution-grid-snake.svg -> docs/github-contribution-grid-snake.png with rsvg-convert
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.7053665Z Converting scripts/metrics-badge.svg -> docs/metrics-badge.png with rsvg-convert
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.8127418Z Converting scripts/trophy.svg -> docs/trophy.png with rsvg-convert
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.8910610Z Converting trophy.svg -> docs/trophy.png with rsvg-convert
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.8973584Z Error reading SVG trophy.svg: XML parse error: Error domain 1 code 4 on line 5 column 1 of data: Start tag expected, '<' not found
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.8974222Z 
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.9862688Z convert-im6.q16: Extra content at the end of the document
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.9863517Z  `No such file or directory` @ error/svg.c/SVGError/3381.
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.9864265Z convert-im6.q16: no images defined `docs/trophy.png' @ error/convert.c/ConvertImageCommand/3234.
+convert	Convert SVGs to PNG fallbacks	2026-06-05T23:52:36.9882456Z ##[error]Process completed with exit code 1.
+convert	Post Checkout	∩╗┐2026-06-05T23:52:37.0003186Z Post job cleanup.
+convert	Post Checkout	2026-06-05T23:52:37.0985255Z [command]/usr/bin/git version
+convert	Post Checkout	2026-06-05T23:52:37.1020706Z git version 2.54.0
+convert	Post Checkout	2026-06-05T23:52:37.1065839Z Temporarily overriding HOME='/home/runner/work/_temp/c7b5a6a1-fb15-4161-8fc4-3f49ab70f0d4' before making global git config changes
+convert	Post Checkout	2026-06-05T23:52:37.1067246Z Adding repository directory to the temporary git global config as a safe directory
+convert	Post Checkout	2026-06-05T23:52:37.1072823Z [command]/usr/bin/git config --global --add safe.directory /home/runner/work/Khairul122/Khairul122
+convert	Post Checkout	2026-06-05T23:52:37.1107413Z [command]/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+convert	Post Checkout	2026-06-05T23:52:37.1138783Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+convert	Post Checkout	2026-06-05T23:52:37.1359648Z [command]/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+convert	Post Checkout	2026-06-05T23:52:37.1389916Z [command]/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+convert	Post Checkout	2026-06-05T23:52:37.1604448Z [command]/usr/bin/git config --local --name-only --get-regexp ^includeIf\.gitdir:
+convert	Post Checkout	2026-06-05T23:52:37.1633062Z [command]/usr/bin/git submodule foreach --recursive git config --local --show-origin --name-only --get-regexp remote.origin.url
+convert	Complete job	∩╗┐2026-06-05T23:52:37.1998481Z Cleaning up orphan processes
+convert	Complete job	2026-06-05T23:52:37.2317136Z ##[warning]Node.js 20 actions are deprecated. The following actions are running on Node.js 20 and may not work as expected: actions/checkout@v4. Actions will be forced to run with Node.js 24 by default starting June 16th, 2026. Node.js 20 will be removed from the runner on September 16th, 2026. Please check if updated versions of these actions are available that support Node.js 24. To opt into Node.js 24 now, set the FORCE_JAVASCRIPT_ACTIONS_TO_NODE24=true environment variable on the runner or in your workflow file. Once Node.js 24 becomes the default, you can temporarily opt out by setting ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION=true. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
