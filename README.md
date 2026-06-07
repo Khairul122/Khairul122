@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
+  - [knn-pln](https://github.com/Khairul122/knn-pln) - 
+  - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [frontend-synectra](https://github.com/Khairul122/frontend-synectra) - 
   - [cnn-jalan](https://github.com/Khairul122/cnn-jalan) - 
-  - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [backend-synectra](https://github.com/Khairul122/backend-synectra) - 
-  - [knn-pln](https://github.com/Khairul122/knn-pln) - 
 - Languages by activity: **CSS, JavaScript, PHP, HTML, SCSS**
-- Rate limit remaining: **4997** (resets: 2026-06-07T12:20:44.000Z)
-- Last updated: 2026-06-07T11:20:54.674Z
+- Rate limit remaining: **4996** (resets: 2026-06-07T13:53:07.000Z)
+- Last updated: 2026-06-07T12:53:15.548Z
 
 <!-- GITHUB-METRICS:END -->
 
