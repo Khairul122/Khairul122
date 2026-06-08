@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-06-08T14:55:04.201Z",
+  "lastUpdated": "2026-06-08T17:42:17.160Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
-      "name": "frontend-synectra",
-      "pushedAt": "2026-06-08T14:20:38Z",
-      "html_url": "https://github.com/Khairul122/frontend-synectra",
+      "name": "knn-pln",
+      "pushedAt": "2026-06-08T17:12:36Z",
+      "html_url": "https://github.com/Khairul122/knn-pln",
       "description": null
     },
     {
       "name": "Khairul122",
-      "pushedAt": "2026-06-08T11:26:18Z",
+      "pushedAt": "2026-06-08T15:20:27Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
-      "name": "knn-pln",
-      "pushedAt": "2026-06-07T11:28:03Z",
-      "html_url": "https://github.com/Khairul122/knn-pln",
+      "name": "frontend-synectra",
+      "pushedAt": "2026-06-08T14:20:38Z",
+      "html_url": "https://github.com/Khairul122/frontend-synectra",
       "description": null
     },
     {
@@ -43,7 +43,7 @@
     "SCSS"
   ],
   "rateLimit": {
-    "remaining": 4997,
-    "reset": 1780934093
+    "remaining": 4996,
+    "reset": 1780944129
   }
 }
