@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-08T17:42:17.160Z",
+  "lastUpdated": "2026-06-08T19:51:48.752Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
-      "name": "knn-pln",
-      "pushedAt": "2026-06-08T17:12:36Z",
-      "html_url": "https://github.com/Khairul122/knn-pln",
+      "name": "Khairul122",
+      "pushedAt": "2026-06-08T17:42:17Z",
+      "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
-      "name": "Khairul122",
-      "pushedAt": "2026-06-08T15:20:27Z",
-      "html_url": "https://github.com/Khairul122/Khairul122",
+      "name": "knn-pln",
+      "pushedAt": "2026-06-08T17:12:36Z",
+      "html_url": "https://github.com/Khairul122/knn-pln",
       "description": null
     },
     {
@@ -43,7 +43,7 @@
     "SCSS"
   ],
   "rateLimit": {
-    "remaining": 4996,
-    "reset": 1780944129
+    "remaining": 4997,
+    "reset": 1780951897
   }
 }
