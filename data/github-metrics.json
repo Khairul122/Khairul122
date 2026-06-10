@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-06-10T16:51:43.644Z",
-  "recentCommits": 30,
+  "lastUpdated": "2026-06-10T19:26:58.153Z",
+  "recentCommits": 28,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "yoloikan",
+      "pushedAt": "2026-06-10T17:27:06Z",
+      "html_url": "https://github.com/Khairul122/yoloikan",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-06-10T13:51:01Z",
+      "pushedAt": "2026-06-10T16:51:44Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,12 +33,6 @@
       "pushedAt": "2026-06-07T10:31:52Z",
       "html_url": "https://github.com/Khairul122/cnn-jalan",
       "description": null
-    },
-    {
-      "name": "backend-synectra",
-      "pushedAt": "2026-05-30T06:51:56Z",
-      "html_url": "https://github.com/Khairul122/backend-synectra",
-      "description": null
     }
   ],
   "topLangs": [
@@ -43,7 +43,7 @@
     "SCSS"
   ],
   "rateLimit": {
-    "remaining": 4996,
-    "reset": 1781113892
+    "remaining": 4997,
+    "reset": 1781123208
   }
 }
