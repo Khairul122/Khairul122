@@ -1,18 +1,30 @@
 {
-  "lastUpdated": "2026-06-11T11:02:30.430Z",
-  "recentCommits": 28,
+  "lastUpdated": "2026-06-11T14:49:03.143Z",
+  "recentCommits": 27,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "frontend-synectra",
+      "pushedAt": "2026-06-11T13:55:07Z",
+      "html_url": "https://github.com/Khairul122/frontend-synectra",
+      "description": null
+    },
+    {
+      "name": "backend-synectra",
+      "pushedAt": "2026-06-11T13:55:03Z",
+      "html_url": "https://github.com/Khairul122/backend-synectra",
+      "description": null
+    },
+    {
       "name": "knn-pln",
-      "pushedAt": "2026-06-11T10:18:46Z",
+      "pushedAt": "2026-06-11T11:07:39Z",
       "html_url": "https://github.com/Khairul122/knn-pln",
       "description": null
     },
     {
       "name": "Khairul122",
-      "pushedAt": "2026-06-11T06:22:27Z",
+      "pushedAt": "2026-06-11T11:02:31Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -20,18 +32,6 @@
       "name": "yoloikan",
       "pushedAt": "2026-06-10T17:27:06Z",
       "html_url": "https://github.com/Khairul122/yoloikan",
-      "description": null
-    },
-    {
-      "name": "frontend-synectra",
-      "pushedAt": "2026-06-08T14:20:38Z",
-      "html_url": "https://github.com/Khairul122/frontend-synectra",
-      "description": null
-    },
-    {
-      "name": "cnn-jalan",
-      "pushedAt": "2026-06-07T10:31:52Z",
-      "html_url": "https://github.com/Khairul122/cnn-jalan",
       "description": null
     }
   ],
@@ -44,6 +44,6 @@
   ],
   "rateLimit": {
     "remaining": 4997,
-    "reset": 1781179339
+    "reset": 1781192933
   }
 }
