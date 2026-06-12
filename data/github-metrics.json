@@ -1,25 +1,13 @@
 {
-  "lastUpdated": "2026-06-12T19:23:11.717Z",
-  "recentCommits": 30,
+  "lastUpdated": "2026-06-12T21:09:11.573Z",
+  "recentCommits": 27,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
       "name": "Khairul122",
-      "pushedAt": "2026-06-12T17:16:25Z",
+      "pushedAt": "2026-06-12T19:23:12Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
-      "description": null
-    },
-    {
-      "name": "frontend-synectra",
-      "pushedAt": "2026-06-12T08:02:55Z",
-      "html_url": "https://github.com/Khairul122/frontend-synectra",
-      "description": null
-    },
-    {
-      "name": "backend-synectra",
-      "pushedAt": "2026-06-12T07:22:38Z",
-      "html_url": "https://github.com/Khairul122/backend-synectra",
       "description": null
     },
     {
@@ -33,17 +21,29 @@
       "pushedAt": "2026-06-10T17:27:06Z",
       "html_url": "https://github.com/Khairul122/yoloikan",
       "description": null
+    },
+    {
+      "name": "cnn-jalan",
+      "pushedAt": "2026-06-07T10:31:52Z",
+      "html_url": "https://github.com/Khairul122/cnn-jalan",
+      "description": null
+    },
+    {
+      "name": "edu-web",
+      "pushedAt": "2026-05-17T12:47:52Z",
+      "html_url": "https://github.com/Khairul122/edu-web",
+      "description": null
     }
   ],
   "topLangs": [
     "CSS",
-    "JavaScript",
     "PHP",
+    "JavaScript",
     "HTML",
     "SCSS"
   ],
   "rateLimit": {
     "remaining": 4997,
-    "reset": 1781295781
+    "reset": 1781302141
   }
 }
