@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-15T07:35:50.184Z",
+  "lastUpdated": "2026-06-15T13:35:04.749Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
-      "name": "laporBup",
-      "pushedAt": "2026-06-15T07:27:37Z",
-      "html_url": "https://github.com/Khairul122/laporBup",
+      "name": "Khairul122",
+      "pushedAt": "2026-06-15T11:38:28Z",
+      "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
-      "name": "Khairul122",
-      "pushedAt": "2026-06-15T02:14:12Z",
-      "html_url": "https://github.com/Khairul122/Khairul122",
+      "name": "laporBup",
+      "pushedAt": "2026-06-15T09:53:13Z",
+      "html_url": "https://github.com/Khairul122/laporBup",
       "description": null
     },
     {
@@ -43,7 +43,7 @@
     "SCSS"
   ],
   "rateLimit": {
-    "remaining": 4997,
-    "reset": 1781512539
+    "remaining": 4996,
+    "reset": 1781534094
   }
 }
