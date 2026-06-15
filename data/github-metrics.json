@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-06-15T02:09:31.303Z",
+  "lastUpdated": "2026-06-15T07:35:50.184Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "laporBup",
+      "pushedAt": "2026-06-15T07:27:37Z",
+      "html_url": "https://github.com/Khairul122/laporBup",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-06-14T23:54:00Z",
+      "pushedAt": "2026-06-15T02:14:12Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,12 +33,6 @@
       "pushedAt": "2026-06-07T10:31:52Z",
       "html_url": "https://github.com/Khairul122/cnn-jalan",
       "description": null
-    },
-    {
-      "name": "edu-web",
-      "pushedAt": "2026-05-17T12:47:52Z",
-      "html_url": "https://github.com/Khairul122/edu-web",
-      "description": null
     }
   ],
   "topLangs": [
@@ -43,7 +43,7 @@
     "SCSS"
   ],
   "rateLimit": {
-    "remaining": 4996,
-    "reset": 1781492963
+    "remaining": 4997,
+    "reset": 1781512539
   }
 }
