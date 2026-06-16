@@ -45,18 +45,18 @@ const khairul: Developer = {
 Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions (fetch-github-metrics) dan diperbarui periodik.
 
 <!-- GITHUB-METRICS:START -->
-- Recent commits (7d): **29**
+- Recent commits (7d): **26**
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [agri-weight](https://github.com/Khairul122/agri-weight) - 
   - [backend-weight](https://github.com/Khairul122/backend-weight) - 
+  - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [laporBup](https://github.com/Khairul122/laporBup) - 
   - [knn-pln](https://github.com/Khairul122/knn-pln) - 
-  - [yoloikan](https://github.com/Khairul122/yoloikan) - 
 - Languages by activity: **CSS, PHP, JavaScript, HTML, SCSS**
-- Rate limit remaining: **4996** (resets: 2026-06-16T13:20:35.000Z)
-- Last updated: 2026-06-16T12:20:44.408Z
+- Rate limit remaining: **4996** (resets: 2026-06-16T18:25:58.000Z)
+- Last updated: 2026-06-16T17:26:09.614Z
 
 <!-- GITHUB-METRICS:END -->
 

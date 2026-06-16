@@ -1,19 +1,25 @@
 {
-  "lastUpdated": "2026-06-16T12:20:44.408Z",
-  "recentCommits": 29,
+  "lastUpdated": "2026-06-16T17:26:09.614Z",
+  "recentCommits": 26,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
-      "name": "Khairul122",
-      "pushedAt": "2026-06-16T10:49:46Z",
-      "html_url": "https://github.com/Khairul122/Khairul122",
+      "name": "agri-weight",
+      "pushedAt": "2026-06-16T15:38:22Z",
+      "html_url": "https://github.com/Khairul122/agri-weight",
       "description": null
     },
     {
       "name": "backend-weight",
-      "pushedAt": "2026-06-16T09:35:50Z",
+      "pushedAt": "2026-06-16T12:53:54Z",
       "html_url": "https://github.com/Khairul122/backend-weight",
+      "description": null
+    },
+    {
+      "name": "Khairul122",
+      "pushedAt": "2026-06-16T12:20:45Z",
+      "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
@@ -27,12 +33,6 @@
       "pushedAt": "2026-06-11T11:07:39Z",
       "html_url": "https://github.com/Khairul122/knn-pln",
       "description": null
-    },
-    {
-      "name": "yoloikan",
-      "pushedAt": "2026-06-10T17:27:06Z",
-      "html_url": "https://github.com/Khairul122/yoloikan",
-      "description": null
     }
   ],
   "topLangs": [
@@ -44,6 +44,6 @@
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1781616035
+    "reset": 1781634358
   }
 }
