@@ -1,13 +1,19 @@
 {
-  "lastUpdated": "2026-06-16T07:08:39.677Z",
-  "recentCommits": 30,
+  "lastUpdated": "2026-06-16T12:20:44.408Z",
+  "recentCommits": 29,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
       "name": "Khairul122",
-      "pushedAt": "2026-06-16T02:28:50Z",
+      "pushedAt": "2026-06-16T10:49:46Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
+      "description": null
+    },
+    {
+      "name": "backend-weight",
+      "pushedAt": "2026-06-16T09:35:50Z",
+      "html_url": "https://github.com/Khairul122/backend-weight",
       "description": null
     },
     {
@@ -27,12 +33,6 @@
       "pushedAt": "2026-06-10T17:27:06Z",
       "html_url": "https://github.com/Khairul122/yoloikan",
       "description": null
-    },
-    {
-      "name": "cnn-jalan",
-      "pushedAt": "2026-06-07T10:31:52Z",
-      "html_url": "https://github.com/Khairul122/cnn-jalan",
-      "description": null
     }
   ],
   "topLangs": [
@@ -44,6 +44,6 @@
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1781597310
+    "reset": 1781616035
   }
 }
