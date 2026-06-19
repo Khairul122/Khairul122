@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-06-19T14:30:10.515Z",
-  "recentCommits": 29,
+  "lastUpdated": "2026-06-19T16:58:50.862Z",
+  "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "edu-web",
+      "pushedAt": "2026-06-19T15:55:55Z",
+      "html_url": "https://github.com/Khairul122/edu-web",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-06-19T11:46:55Z",
+      "pushedAt": "2026-06-19T14:30:11Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,12 +33,6 @@
       "pushedAt": "2026-06-15T09:53:13Z",
       "html_url": "https://github.com/Khairul122/laporBup",
       "description": null
-    },
-    {
-      "name": "knn-pln",
-      "pushedAt": "2026-06-11T11:07:39Z",
-      "html_url": "https://github.com/Khairul122/knn-pln",
-      "description": null
     }
   ],
   "topLangs": [
@@ -43,7 +43,7 @@
     "SCSS"
   ],
   "rateLimit": {
-    "remaining": 4997,
-    "reset": 1781882999
+    "remaining": 4996,
+    "reset": 1781891921
   }
 }
