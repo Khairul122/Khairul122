@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-06-20T09:33:06.342Z",
+  "lastUpdated": "2026-06-20T11:30:41.370Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "laporBup",
+      "pushedAt": "2026-06-20T10:48:26Z",
+      "html_url": "https://github.com/Khairul122/laporBup",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-06-20T06:05:31Z",
+      "pushedAt": "2026-06-20T09:33:07Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-06-16T12:53:54Z",
       "html_url": "https://github.com/Khairul122/backend-weight",
       "description": null
-    },
-    {
-      "name": "laporBup",
-      "pushedAt": "2026-06-15T09:53:13Z",
-      "html_url": "https://github.com/Khairul122/laporBup",
-      "description": null
     }
   ],
   "topLangs": [
     "CSS",
     "PHP",
-    "JavaScript",
     "HTML",
+    "JavaScript",
     "SCSS"
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1781951578
+    "reset": 1781958632
   }
 }
