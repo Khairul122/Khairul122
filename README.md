@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
+  - [edu-web](https://github.com/Khairul122/edu-web) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [laporBup](https://github.com/Khairul122/laporBup) - 
-  - [edu-web](https://github.com/Khairul122/edu-web) - 
   - [agri-weight](https://github.com/Khairul122/agri-weight) - 
   - [backend-weight](https://github.com/Khairul122/backend-weight) - 
 - Languages by activity: **CSS, PHP, HTML, JavaScript, SCSS**
-- Rate limit remaining: **4996** (resets: 2026-06-21T10:04:54.000Z)
-- Last updated: 2026-06-21T09:05:03.152Z
+- Rate limit remaining: **4996** (resets: 2026-06-21T12:50:05.000Z)
+- Last updated: 2026-06-21T11:50:13.412Z
 
 <!-- GITHUB-METRICS:END -->
 

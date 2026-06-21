@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-06-21T09:05:03.152Z",
+  "lastUpdated": "2026-06-21T11:50:13.412Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "edu-web",
+      "pushedAt": "2026-06-21T09:51:18Z",
+      "html_url": "https://github.com/Khairul122/edu-web",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-06-21T05:21:11Z",
+      "pushedAt": "2026-06-21T09:05:03Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -14,12 +20,6 @@
       "name": "laporBup",
       "pushedAt": "2026-06-20T14:21:09Z",
       "html_url": "https://github.com/Khairul122/laporBup",
-      "description": null
-    },
-    {
-      "name": "edu-web",
-      "pushedAt": "2026-06-19T15:55:55Z",
-      "html_url": "https://github.com/Khairul122/edu-web",
       "description": null
     },
     {
@@ -44,6 +44,6 @@
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1782036294
+    "reset": 1782046205
   }
 }
