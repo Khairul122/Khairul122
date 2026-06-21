@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-21T15:23:18.256Z",
+  "lastUpdated": "2026-06-21T16:57:47.715Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
-      "name": "edu-web",
-      "pushedAt": "2026-06-21T13:42:21Z",
-      "html_url": "https://github.com/Khairul122/edu-web",
+      "name": "Khairul122",
+      "pushedAt": "2026-06-21T15:23:19Z",
+      "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
-      "name": "Khairul122",
-      "pushedAt": "2026-06-21T13:29:09Z",
-      "html_url": "https://github.com/Khairul122/Khairul122",
+      "name": "edu-web",
+      "pushedAt": "2026-06-21T13:42:21Z",
+      "html_url": "https://github.com/Khairul122/edu-web",
       "description": null
     },
     {
@@ -43,7 +43,7 @@
     "SCSS"
   ],
   "rateLimit": {
-    "remaining": 4996,
-    "reset": 1782058988
+    "remaining": 4997,
+    "reset": 1782064659
   }
 }
