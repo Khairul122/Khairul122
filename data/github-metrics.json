@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-06-25T08:40:22.705Z",
+  "lastUpdated": "2026-06-25T11:20:38.037Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "web_naive_bayes",
+      "pushedAt": "2026-06-25T11:20:24Z",
+      "html_url": "https://github.com/Khairul122/web_naive_bayes",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-06-25T05:48:09Z",
+      "pushedAt": "2026-06-25T08:40:23Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-06-16T15:38:22Z",
       "html_url": "https://github.com/Khairul122/agri-weight",
       "description": null
-    },
-    {
-      "name": "backend-weight",
-      "pushedAt": "2026-06-16T12:53:54Z",
-      "html_url": "https://github.com/Khairul122/backend-weight",
-      "description": null
     }
   ],
   "topLangs": [
     "CSS",
     "PHP",
-    "JavaScript",
     "HTML",
+    "JavaScript",
     "SCSS"
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1782380411
+    "reset": 1782390027
   }
 }
