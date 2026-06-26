@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [web_naive_bayes](https://github.com/Khairul122/web_naive_bayes) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [web_naive_bayes](https://github.com/Khairul122/web_naive_bayes) - 
   - [laporBup](https://github.com/Khairul122/laporBup) - 
   - [edu-web](https://github.com/Khairul122/edu-web) - 
   - [agri-weight](https://github.com/Khairul122/agri-weight) - 
 - Languages by activity: **CSS, PHP, HTML, JavaScript, SCSS**
-- Rate limit remaining: **4996** (resets: 2026-06-26T09:41:43.000Z)
-- Last updated: 2026-06-26T08:41:53.690Z
+- Rate limit remaining: **4996** (resets: 2026-06-26T12:30:50.000Z)
+- Last updated: 2026-06-26T11:31:02.569Z
 
 <!-- GITHUB-METRICS:END -->
 
