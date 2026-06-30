@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-06-30T00:19:08.109Z",
+  "lastUpdated": "2026-06-30T04:37:25.375Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
-      "name": "Khairul122",
-      "pushedAt": "2026-06-29T23:14:07Z",
-      "html_url": "https://github.com/Khairul122/Khairul122",
+      "name": "web_naive_bayes",
+      "pushedAt": "2026-06-30T03:28:26Z",
+      "html_url": "https://github.com/Khairul122/web_naive_bayes",
       "description": null
     },
     {
-      "name": "web_naive_bayes",
-      "pushedAt": "2026-06-29T13:19:43Z",
-      "html_url": "https://github.com/Khairul122/web_naive_bayes",
+      "name": "Khairul122",
+      "pushedAt": "2026-06-30T01:58:04Z",
+      "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
@@ -44,6 +44,6 @@
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1782782339
+    "reset": 1782797835
   }
 }
