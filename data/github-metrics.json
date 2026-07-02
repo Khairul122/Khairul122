@@ -1,12 +1,24 @@
 {
-  "lastUpdated": "2026-07-02T08:33:47.300Z",
-  "recentCommits": 30,
+  "lastUpdated": "2026-07-02T11:12:13.610Z",
+  "recentCommits": 28,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "backend-synectra",
+      "pushedAt": "2026-07-02T08:46:11Z",
+      "html_url": "https://github.com/Khairul122/backend-synectra",
+      "description": null
+    },
+    {
+      "name": "frontend-synectra",
+      "pushedAt": "2026-07-02T08:41:08Z",
+      "html_url": "https://github.com/Khairul122/frontend-synectra",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-07-02T05:44:43Z",
+      "pushedAt": "2026-07-02T08:37:23Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -21,29 +33,17 @@
       "pushedAt": "2026-06-30T03:28:26Z",
       "html_url": "https://github.com/Khairul122/web_naive_bayes",
       "description": null
-    },
-    {
-      "name": "laporBup",
-      "pushedAt": "2026-06-22T15:24:49Z",
-      "html_url": "https://github.com/Khairul122/laporBup",
-      "description": null
-    },
-    {
-      "name": "edu-web",
-      "pushedAt": "2026-06-21T13:42:21Z",
-      "html_url": "https://github.com/Khairul122/edu-web",
-      "description": null
     }
   ],
   "topLangs": [
     "CSS",
+    "JavaScript",
     "PHP",
     "HTML",
-    "JavaScript",
     "SCSS"
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1782984817
+    "reset": 1782994324
   }
 }
