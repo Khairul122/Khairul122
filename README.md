@@ -45,18 +45,18 @@ const khairul: Developer = {
 Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions (fetch-github-metrics) dan diperbarui periodik.
 
 <!-- GITHUB-METRICS:START -->
-- Recent commits (7d): **28**
+- Recent commits (7d): **27**
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
+  - [global-scm](https://github.com/Khairul122/global-scm) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [backend-synectra](https://github.com/Khairul122/backend-synectra) - 
   - [frontend-synectra](https://github.com/Khairul122/frontend-synectra) - 
   - [agri-weight](https://github.com/Khairul122/agri-weight) - 
-  - [web_naive_bayes](https://github.com/Khairul122/web_naive_bayes) - 
 - Languages by activity: **CSS, JavaScript, PHP, HTML, SCSS**
-- Rate limit remaining: **4996** (resets: 2026-07-02T23:31:09.000Z)
-- Last updated: 2026-07-02T22:31:20.667Z
+- Rate limit remaining: **4996** (resets: 2026-07-03T00:39:55.000Z)
+- Last updated: 2026-07-02T23:40:04.467Z
 
 <!-- GITHUB-METRICS:END -->
 

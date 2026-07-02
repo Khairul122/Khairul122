@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-07-02T22:31:20.667Z",
-  "recentCommits": 28,
+  "lastUpdated": "2026-07-02T23:40:04.467Z",
+  "recentCommits": 27,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "global-scm",
+      "pushedAt": "2026-07-02T23:31:02Z",
+      "html_url": "https://github.com/Khairul122/global-scm",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-07-02T21:21:30Z",
+      "pushedAt": "2026-07-02T22:31:21Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,12 +33,6 @@
       "pushedAt": "2026-07-01T04:38:09Z",
       "html_url": "https://github.com/Khairul122/agri-weight",
       "description": null
-    },
-    {
-      "name": "web_naive_bayes",
-      "pushedAt": "2026-06-30T03:28:26Z",
-      "html_url": "https://github.com/Khairul122/web_naive_bayes",
-      "description": null
     }
   ],
   "topLangs": [
@@ -44,6 +44,6 @@
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1783035069
+    "reset": 1783039195
   }
 }
