@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-03T17:46:05.735Z",
+  "lastUpdated": "2026-07-03T18:52:12.206Z",
   "recentCommits": 21,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
-      "name": "backend-portal",
-      "pushedAt": "2026-07-03T17:03:06Z",
-      "html_url": "https://github.com/Khairul122/backend-portal",
+      "name": "Khairul122",
+      "pushedAt": "2026-07-03T17:46:06Z",
+      "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
-      "name": "Khairul122",
-      "pushedAt": "2026-07-03T16:11:56Z",
-      "html_url": "https://github.com/Khairul122/Khairul122",
+      "name": "backend-portal",
+      "pushedAt": "2026-07-03T17:03:06Z",
+      "html_url": "https://github.com/Khairul122/backend-portal",
       "description": null
     },
     {
@@ -44,6 +44,6 @@
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1783104356
+    "reset": 1783108323
   }
 }

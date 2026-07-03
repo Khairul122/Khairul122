@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [backend-portal](https://github.com/Khairul122/backend-portal) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [backend-portal](https://github.com/Khairul122/backend-portal) - 
   - [global-scm](https://github.com/Khairul122/global-scm) - 
   - [frontend-synectra](https://github.com/Khairul122/frontend-synectra) - 
   - [backend-synectra](https://github.com/Khairul122/backend-synectra) - 
 - Languages by activity: **CSS, JavaScript, PHP, HTML, SCSS**
-- Rate limit remaining: **4996** (resets: 2026-07-03T18:45:56.000Z)
-- Last updated: 2026-07-03T17:46:05.735Z
+- Rate limit remaining: **4996** (resets: 2026-07-03T19:52:03.000Z)
+- Last updated: 2026-07-03T18:52:12.206Z
 
 <!-- GITHUB-METRICS:END -->
 
