@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [global-scm](https://github.com/Khairul122/global-scm) - 
-  - [Khairul122](https://github.com/Khairul122/Khairul122) - 
-  - [backend-synectra](https://github.com/Khairul122/backend-synectra) - 
   - [frontend-synectra](https://github.com/Khairul122/frontend-synectra) - 
+  - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [global-scm](https://github.com/Khairul122/global-scm) - 
+  - [backend-synectra](https://github.com/Khairul122/backend-synectra) - 
   - [agri-weight](https://github.com/Khairul122/agri-weight) - 
 - Languages by activity: **CSS, JavaScript, PHP, HTML, SCSS**
-- Rate limit remaining: **4996** (resets: 2026-07-03T02:14:54.000Z)
-- Last updated: 2026-07-03T01:15:02.537Z
+- Rate limit remaining: **4996** (resets: 2026-07-03T05:57:23.000Z)
+- Last updated: 2026-07-03T04:57:33.183Z
 
 <!-- GITHUB-METRICS:END -->
 
