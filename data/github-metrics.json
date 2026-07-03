@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-07-03T16:11:55.289Z",
-  "recentCommits": 20,
+  "lastUpdated": "2026-07-03T17:46:05.735Z",
+  "recentCommits": 21,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "backend-portal",
+      "pushedAt": "2026-07-03T17:03:06Z",
+      "html_url": "https://github.com/Khairul122/backend-portal",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-07-03T14:40:46Z",
+      "pushedAt": "2026-07-03T16:11:56Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,12 +33,6 @@
       "pushedAt": "2026-07-02T08:46:11Z",
       "html_url": "https://github.com/Khairul122/backend-synectra",
       "description": null
-    },
-    {
-      "name": "agri-weight",
-      "pushedAt": "2026-07-01T04:38:09Z",
-      "html_url": "https://github.com/Khairul122/agri-weight",
-      "description": null
     }
   ],
   "topLangs": [
@@ -44,6 +44,6 @@
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1783098705
+    "reset": 1783104356
   }
 }
