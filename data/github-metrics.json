@@ -1,19 +1,25 @@
 {
-  "lastUpdated": "2026-07-04T04:48:40.803Z",
-  "recentCommits": 25,
+  "lastUpdated": "2026-07-04T07:31:03.362Z",
+  "recentCommits": 29,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
-      "name": "frontend-synectra",
-      "pushedAt": "2026-07-04T02:44:56Z",
-      "html_url": "https://github.com/Khairul122/frontend-synectra",
+      "name": "agri-weight",
+      "pushedAt": "2026-07-04T07:09:25Z",
+      "html_url": "https://github.com/Khairul122/agri-weight",
       "description": null
     },
     {
       "name": "Khairul122",
-      "pushedAt": "2026-07-04T01:27:26Z",
+      "pushedAt": "2026-07-04T04:48:41Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
+      "description": null
+    },
+    {
+      "name": "frontend-synectra",
+      "pushedAt": "2026-07-04T02:44:56Z",
+      "html_url": "https://github.com/Khairul122/frontend-synectra",
       "description": null
     },
     {
@@ -27,12 +33,6 @@
       "pushedAt": "2026-07-03T14:26:52Z",
       "html_url": "https://github.com/Khairul122/global-scm",
       "description": null
-    },
-    {
-      "name": "backend-synectra",
-      "pushedAt": "2026-07-02T08:46:11Z",
-      "html_url": "https://github.com/Khairul122/backend-synectra",
-      "description": null
     }
   ],
   "topLangs": [
@@ -44,6 +44,6 @@
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1783144110
+    "reset": 1783153854
   }
 }
