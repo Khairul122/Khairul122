@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-07-07T20:14:28.511Z",
-  "recentCommits": 30,
+  "lastUpdated": "2026-07-07T21:41:23.913Z",
+  "recentCommits": 29,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "iot-gate",
+      "pushedAt": "2026-07-07T21:35:08Z",
+      "html_url": "https://github.com/Khairul122/iot-gate",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-07-07T18:14:41Z",
+      "pushedAt": "2026-07-07T20:14:29Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-07-05T16:09:28Z",
       "html_url": "https://github.com/Khairul122/sippm_madina",
       "description": null
-    },
-    {
-      "name": "frontend-synectra",
-      "pushedAt": "2026-07-04T02:44:56Z",
-      "html_url": "https://github.com/Khairul122/frontend-synectra",
-      "description": null
     }
   ],
   "topLangs": [
-    "CSS",
     "JavaScript",
+    "CSS",
     "PHP",
-    "SCSS",
-    "Blade"
+    "Blade",
+    "HTML"
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1783458859
+    "reset": 1783464073
   }
 }

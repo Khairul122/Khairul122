@@ -2,6 +2,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="540" height="120" viewBox="0 0 540 120" role="img" aria-label="Trophies">
   <rect rx="8" width="540" height="120" fill="#0d0d1a"/>
   <text x="24" y="34" fill="#ffd54f" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" font-weight="700">🏆 Trophies & Highlights</text>
-  <text x="24" y="62" fill="#e2e8f0" font-family="Segoe UI, Roboto" font-size="13">Commits (7d): <tspan fill="#06b6d4">30</tspan> · PRs (30d): <tspan fill="#06b6d4">0</tspan> · Issues (30d): <tspan fill="#06b6d4">0</tspan></text>
-  <text x="24" y="92" fill="#c4b5fd" font-family="Segoe UI, Roboto" font-size="12">Top repo: <tspan fill="#10b981">Khairul122</tspan></text>
+  <text x="24" y="62" fill="#e2e8f0" font-family="Segoe UI, Roboto" font-size="13">Commits (7d): <tspan fill="#06b6d4">29</tspan> · PRs (30d): <tspan fill="#06b6d4">0</tspan> · Issues (30d): <tspan fill="#06b6d4">0</tspan></text>
+  <text x="24" y="92" fill="#c4b5fd" font-family="Segoe UI, Roboto" font-size="12">Top repo: <tspan fill="#10b981">iot-gate</tspan></text>
 </svg>
