@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [iot-gate](https://github.com/Khairul122/iot-gate) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [iot-gate](https://github.com/Khairul122/iot-gate) - 
   - [agri-weight](https://github.com/Khairul122/agri-weight) - 
   - [lstm](https://github.com/Khairul122/lstm) - 
   - [sippm_madina](https://github.com/Khairul122/sippm_madina) - 
 - Languages by activity: **JavaScript, CSS, PHP, Blade, HTML**
-- Rate limit remaining: **4996** (resets: 2026-07-07T22:41:13.000Z)
-- Last updated: 2026-07-07T21:41:23.913Z
+- Rate limit remaining: **4997** (resets: 2026-07-07T23:42:24.000Z)
+- Last updated: 2026-07-07T22:42:34.046Z
 
 <!-- GITHUB-METRICS:END -->
 
