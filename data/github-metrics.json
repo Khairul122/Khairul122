@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-07-11T10:35:33.370Z",
+  "lastUpdated": "2026-07-11T11:33:39.649Z",
   "recentCommits": 26,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "Khairul122",
+      "pushedAt": "2026-07-11T10:35:34Z",
+      "html_url": "https://github.com/Khairul122/Khairul122",
+      "description": null
+    },
+    {
       "name": "siakad",
       "pushedAt": "2026-07-11T09:23:01Z",
       "html_url": "https://github.com/Khairul122/siakad",
       "description": "Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)"
-    },
-    {
-      "name": "Khairul122",
-      "pushedAt": "2026-07-11T09:17:40Z",
-      "html_url": "https://github.com/Khairul122/Khairul122",
-      "description": null
     },
     {
       "name": "sippm_madina",
@@ -43,7 +43,7 @@
     "CSS"
   ],
   "rateLimit": {
-    "remaining": 4996,
+    "remaining": 4988,
     "reset": 1783769726
   }
 }
