@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-07-11T07:55:49.379Z",
-  "recentCommits": 30,
+  "lastUpdated": "2026-07-11T09:17:39.629Z",
+  "recentCommits": 28,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "siakad",
+      "pushedAt": "2026-07-11T08:49:32Z",
+      "html_url": "https://github.com/Khairul122/siakad",
+      "description": "Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)"
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-07-11T05:59:11Z",
+      "pushedAt": "2026-07-11T07:55:50Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-07-07T12:18:19Z",
       "html_url": "https://github.com/Khairul122/agri-weight",
       "description": null
-    },
-    {
-      "name": "lstm",
-      "pushedAt": "2026-07-06T16:21:54Z",
-      "html_url": "https://github.com/Khairul122/lstm",
-      "description": null
     }
   ],
   "topLangs": [
-    "JavaScript",
     "PHP",
-    "CSS",
+    "JavaScript",
     "Blade",
-    "HTML"
+    "TypeScript",
+    "CSS"
   ],
   "rateLimit": {
-    "remaining": 4997,
-    "reset": 1783760139
+    "remaining": 4996,
+    "reset": 1783765049
   }
 }
