@@ -1,18 +1,24 @@
 {
-  "lastUpdated": "2026-07-12T09:13:15.062Z",
+  "lastUpdated": "2026-07-12T10:41:57.233Z",
   "recentCommits": 26,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "yoloikan",
+      "pushedAt": "2026-07-12T10:21:21Z",
+      "html_url": "https://github.com/Khairul122/yoloikan",
+      "description": null
+    },
+    {
       "name": "sippm_madina",
-      "pushedAt": "2026-07-12T09:02:27Z",
+      "pushedAt": "2026-07-12T10:06:16Z",
       "html_url": "https://github.com/Khairul122/sippm_madina",
       "description": null
     },
     {
       "name": "Khairul122",
-      "pushedAt": "2026-07-12T07:09:54Z",
+      "pushedAt": "2026-07-12T09:13:15Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-07-07T21:35:08Z",
       "html_url": "https://github.com/Khairul122/iot-gate",
       "description": null
-    },
-    {
-      "name": "agri-weight",
-      "pushedAt": "2026-07-07T12:18:19Z",
-      "html_url": "https://github.com/Khairul122/agri-weight",
-      "description": null
     }
   ],
   "topLangs": [
     "PHP",
     "JavaScript",
     "Blade",
-    "TypeScript",
+    "Dart",
     "CSS"
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1783851187
+    "reset": 1783856509
   }
 }
