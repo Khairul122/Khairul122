@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-07-13T10:46:54.108Z",
+  "lastUpdated": "2026-07-13T13:06:39.813Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "siakad",
+      "pushedAt": "2026-07-13T12:00:03Z",
+      "html_url": "https://github.com/Khairul122/siakad",
+      "description": "Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)"
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-07-13T07:54:44Z",
+      "pushedAt": "2026-07-13T10:46:55Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -21,12 +27,6 @@
       "pushedAt": "2026-07-12T10:06:16Z",
       "html_url": "https://github.com/Khairul122/sippm_madina",
       "description": null
-    },
-    {
-      "name": "siakad",
-      "pushedAt": "2026-07-11T14:30:04Z",
-      "html_url": "https://github.com/Khairul122/siakad",
-      "description": "Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)"
     },
     {
       "name": "iot-gate",
@@ -44,6 +44,6 @@
   ],
   "rateLimit": {
     "remaining": 4997,
-    "reset": 1783943204
+    "reset": 1783951588
   }
 }
