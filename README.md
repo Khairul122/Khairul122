@@ -54,9 +54,9 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
   - [siakad](https://github.com/Khairul122/siakad) - Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)
   - [agri-weight](https://github.com/Khairul122/agri-weight) - 
   - [yoloikan](https://github.com/Khairul122/yoloikan) - 
-- Languages by activity: **JavaScript, PHP, CSS, Blade, SCSS**
-- Rate limit remaining: **4996** (resets: 2026-07-15T10:30:35.000Z)
-- Last updated: 2026-07-15T09:30:45.443Z
+- Languages by activity: **JavaScript, PHP, Blade, SCSS, Dart**
+- Rate limit remaining: **4996** (resets: 2026-07-15T12:09:56.000Z)
+- Last updated: 2026-07-15T11:10:04.841Z
 
 <!-- GITHUB-METRICS:END -->
 

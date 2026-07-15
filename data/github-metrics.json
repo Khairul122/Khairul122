@@ -1,18 +1,18 @@
 {
-  "lastUpdated": "2026-07-15T09:30:45.443Z",
+  "lastUpdated": "2026-07-15T11:10:04.841Z",
   "recentCommits": 29,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
       "name": "web_discakpil",
-      "pushedAt": "2026-07-15T08:00:21Z",
+      "pushedAt": "2026-07-15T11:09:50Z",
       "html_url": "https://github.com/Khairul122/web_discakpil",
       "description": null
     },
     {
       "name": "Khairul122",
-      "pushedAt": "2026-07-15T07:32:18Z",
+      "pushedAt": "2026-07-15T09:30:46Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -38,12 +38,12 @@
   "topLangs": [
     "JavaScript",
     "PHP",
-    "CSS",
     "Blade",
-    "SCSS"
+    "SCSS",
+    "Dart"
   ],
   "rateLimit": {
     "remaining": 4996,
-    "reset": 1784111435
+    "reset": 1784117396
   }
 }
