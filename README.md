@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
+  - [web_discakpil](https://github.com/Khairul122/web_discakpil) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [siakad](https://github.com/Khairul122/siakad) - Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)
   - [agri-weight](https://github.com/Khairul122/agri-weight) - 
   - [yoloikan](https://github.com/Khairul122/yoloikan) - 
-  - [sippm_madina](https://github.com/Khairul122/sippm_madina) - 
-- Languages by activity: **PHP, JavaScript, Blade, Dart, CSS**
-- Rate limit remaining: **4996** (resets: 2026-07-15T08:32:07.000Z)
-- Last updated: 2026-07-15T07:32:17.667Z
+- Languages by activity: **JavaScript, PHP, CSS, Blade, SCSS**
+- Rate limit remaining: **4996** (resets: 2026-07-15T10:30:35.000Z)
+- Last updated: 2026-07-15T09:30:45.443Z
 
 <!-- GITHUB-METRICS:END -->
 
