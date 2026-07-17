@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-07-17T10:12:03.179Z",
+  "lastUpdated": "2026-07-17T11:39:17.632Z",
   "recentCommits": 29,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "global-scm",
+      "pushedAt": "2026-07-17T11:06:47Z",
+      "html_url": "https://github.com/Khairul122/global-scm",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-07-17T08:16:07Z",
+      "pushedAt": "2026-07-17T10:12:04Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-07-15T14:57:38Z",
       "html_url": "https://github.com/Khairul122/siakad",
       "description": "Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)"
-    },
-    {
-      "name": "web_discakpil",
-      "pushedAt": "2026-07-15T14:13:43Z",
-      "html_url": "https://github.com/Khairul122/web_discakpil",
-      "description": null
     }
   ],
   "topLangs": [
     "PHP",
     "JavaScript",
     "CSS",
-    "SCSS",
-    "Blade"
+    "Blade",
+    "SCSS"
   ],
   "rateLimit": {
-    "remaining": 4997,
-    "reset": 1784286713
+    "remaining": 4996,
+    "reset": 1784291949
   }
 }

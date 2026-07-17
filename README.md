@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
+  - [global-scm](https://github.com/Khairul122/global-scm) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [WebMautRS](https://github.com/Khairul122/WebMautRS) - 
   - [e-commerce](https://github.com/Khairul122/e-commerce) - 
   - [siakad](https://github.com/Khairul122/siakad) - Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)
-  - [web_discakpil](https://github.com/Khairul122/web_discakpil) - 
-- Languages by activity: **PHP, JavaScript, CSS, SCSS, Blade**
-- Rate limit remaining: **4997** (resets: 2026-07-17T11:11:53.000Z)
-- Last updated: 2026-07-17T10:12:03.179Z
+- Languages by activity: **PHP, JavaScript, CSS, Blade, SCSS**
+- Rate limit remaining: **4996** (resets: 2026-07-17T12:39:09.000Z)
+- Last updated: 2026-07-17T11:39:17.632Z
 
 <!-- GITHUB-METRICS:END -->
 
