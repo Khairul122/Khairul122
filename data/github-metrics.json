@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-07-18T20:26:25.627Z",
-  "recentCommits": 30,
+  "lastUpdated": "2026-07-18T21:11:51.451Z",
+  "recentCommits": 29,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "app-marketplace",
+      "pushedAt": "2026-07-18T21:03:56Z",
+      "html_url": "https://github.com/Khairul122/app-marketplace",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-07-18T19:41:03Z",
+      "pushedAt": "2026-07-18T20:26:27Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-07-16T08:30:11Z",
       "html_url": "https://github.com/Khairul122/e-commerce",
       "description": null
-    },
-    {
-      "name": "siakad",
-      "pushedAt": "2026-07-15T14:57:38Z",
-      "html_url": "https://github.com/Khairul122/siakad",
-      "description": "Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)"
     }
   ],
   "topLangs": [
     "PHP",
     "JavaScript",
     "CSS",
-    "Blade",
-    "SCSS"
+    "Dart",
+    "Blade"
   ],
   "rateLimit": {
-    "remaining": 4989,
-    "reset": 1784407254
+    "remaining": 4996,
+    "reset": 1784412702
   }
 }
