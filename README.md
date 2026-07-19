@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [global-scm](https://github.com/Khairul122/global-scm) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [global-scm](https://github.com/Khairul122/global-scm) - 
   - [app-marketplace](https://github.com/Khairul122/app-marketplace) - 
   - [WebMautRS](https://github.com/Khairul122/WebMautRS) - 
   - [e-commerce](https://github.com/Khairul122/e-commerce) - 
 - Languages by activity: **PHP, JavaScript, CSS, Dart, Blade**
-- Rate limit remaining: **4996** (resets: 2026-07-19T20:20:54.000Z)
-- Last updated: 2026-07-19T19:21:03.387Z
+- Rate limit remaining: **4988** (resets: 2026-07-19T20:20:54.000Z)
+- Last updated: 2026-07-19T20:13:07.569Z
 
 <!-- GITHUB-METRICS:END -->
 
