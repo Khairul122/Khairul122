@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [yoloikan](https://github.com/Khairul122/yoloikan) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [yoloikan](https://github.com/Khairul122/yoloikan) - 
   - [global-scm](https://github.com/Khairul122/global-scm) - 
   - [app-marketplace](https://github.com/Khairul122/app-marketplace) - 
   - [WebMautRS](https://github.com/Khairul122/WebMautRS) - 
 - Languages by activity: **PHP, JavaScript, CSS, Dart, Blade**
-- Rate limit remaining: **4996** (resets: 2026-07-20T15:26:34.000Z)
-- Last updated: 2026-07-20T14:26:42.283Z
+- Rate limit remaining: **4996** (resets: 2026-07-20T17:07:03.000Z)
+- Last updated: 2026-07-20T16:07:11.489Z
 
 <!-- GITHUB-METRICS:END -->
 
