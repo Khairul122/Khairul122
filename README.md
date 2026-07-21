@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [WebMautRS](https://github.com/Khairul122/WebMautRS) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [WebMautRS](https://github.com/Khairul122/WebMautRS) - 
   - [sippm_madina](https://github.com/Khairul122/sippm_madina) - 
   - [yoloikan](https://github.com/Khairul122/yoloikan) - 
   - [global-scm](https://github.com/Khairul122/global-scm) - 
 - Languages by activity: **PHP, JavaScript, CSS, Dart, Blade**
-- Rate limit remaining: **4996** (resets: 2026-07-21T15:20:47.000Z)
-- Last updated: 2026-07-21T14:20:55.081Z
+- Rate limit remaining: **4996** (resets: 2026-07-21T16:56:17.000Z)
+- Last updated: 2026-07-21T15:56:26.535Z
 
 <!-- GITHUB-METRICS:END -->
 
