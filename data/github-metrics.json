@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-07-23T12:54:31.906Z",
+  "lastUpdated": "2026-07-23T14:57:50.163Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
-      "name": "spk-topsis-karyawan-terbaik",
-      "pushedAt": "2026-07-23T11:35:09Z",
-      "html_url": "https://github.com/Khairul122/spk-topsis-karyawan-terbaik",
+      "name": "Khairul122",
+      "pushedAt": "2026-07-23T12:54:32Z",
+      "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
-      "name": "Khairul122",
-      "pushedAt": "2026-07-23T11:25:12Z",
-      "html_url": "https://github.com/Khairul122/Khairul122",
+      "name": "spk-topsis-karyawan-terbaik",
+      "pushedAt": "2026-07-23T11:35:09Z",
+      "html_url": "https://github.com/Khairul122/spk-topsis-karyawan-terbaik",
       "description": null
     },
     {
@@ -43,7 +43,7 @@
     "Blade"
   ],
   "rateLimit": {
-    "remaining": 4996,
-    "reset": 1784814863
+    "remaining": 4997,
+    "reset": 1784822260
   }
 }
