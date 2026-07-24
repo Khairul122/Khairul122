@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [web_discakpil](https://github.com/Khairul122/web_discakpil) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [web_discakpil](https://github.com/Khairul122/web_discakpil) - 
   - [spk-topsis-karyawan-terbaik](https://github.com/Khairul122/spk-topsis-karyawan-terbaik) - 
   - [sippm_madina](https://github.com/Khairul122/sippm_madina) - 
   - [WebMautRS](https://github.com/Khairul122/WebMautRS) - 
 - Languages by activity: **PHP, JavaScript, CSS, Dart, Blade**
-- Rate limit remaining: **4996** (resets: 2026-07-24T16:37:57.000Z)
-- Last updated: 2026-07-24T15:38:05.609Z
+- Rate limit remaining: **4997** (resets: 2026-07-24T18:09:39.000Z)
+- Last updated: 2026-07-24T17:09:49.295Z
 
 <!-- GITHUB-METRICS:END -->
 
