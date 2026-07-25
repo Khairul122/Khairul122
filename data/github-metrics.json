@@ -1,18 +1,24 @@
 {
-  "lastUpdated": "2026-07-25T06:04:44.103Z",
+  "lastUpdated": "2026-07-25T08:20:09.117Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
       "name": "Khairul122",
-      "pushedAt": "2026-07-25T03:40:39Z",
+      "pushedAt": "2026-07-25T07:45:53Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
+      "name": "e-commerce",
+      "pushedAt": "2026-07-25T06:30:15Z",
+      "html_url": "https://github.com/Khairul122/e-commerce",
+      "description": null
+    },
+    {
       "name": "web_discakpil",
-      "pushedAt": "2026-07-24T14:33:28Z",
+      "pushedAt": "2026-07-25T06:18:32Z",
       "html_url": "https://github.com/Khairul122/web_discakpil",
       "description": null
     },
@@ -27,12 +33,6 @@
       "pushedAt": "2026-07-23T07:43:54Z",
       "html_url": "https://github.com/Khairul122/sippm_madina",
       "description": null
-    },
-    {
-      "name": "WebMautRS",
-      "pushedAt": "2026-07-21T14:13:20Z",
-      "html_url": "https://github.com/Khairul122/WebMautRS",
-      "description": null
     }
   ],
   "topLangs": [
@@ -43,7 +43,7 @@
     "Blade"
   ],
   "rateLimit": {
-    "remaining": 4996,
-    "reset": 1784963075
+    "remaining": 4992,
+    "reset": 1784969179
   }
 }

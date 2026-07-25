@@ -50,13 +50,13 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [e-commerce](https://github.com/Khairul122/e-commerce) - 
   - [web_discakpil](https://github.com/Khairul122/web_discakpil) - 
   - [spk-topsis-karyawan-terbaik](https://github.com/Khairul122/spk-topsis-karyawan-terbaik) - 
   - [sippm_madina](https://github.com/Khairul122/sippm_madina) - 
-  - [WebMautRS](https://github.com/Khairul122/WebMautRS) - 
 - Languages by activity: **PHP, JavaScript, CSS, Dart, Blade**
-- Rate limit remaining: **4996** (resets: 2026-07-25T07:04:35.000Z)
-- Last updated: 2026-07-25T06:04:44.103Z
+- Rate limit remaining: **4992** (resets: 2026-07-25T08:46:19.000Z)
+- Last updated: 2026-07-25T08:20:09.117Z
 
 <!-- GITHUB-METRICS:END -->
 
