@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [e-commerce-rendang](https://github.com/Khairul122/e-commerce-rendang) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [e-commerce-rendang](https://github.com/Khairul122/e-commerce-rendang) - 
   - [sippm_madina](https://github.com/Khairul122/sippm_madina) - 
   - [e-commerce](https://github.com/Khairul122/e-commerce) - 
   - [siakad](https://github.com/Khairul122/siakad) - Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)
 - Languages by activity: **PHP, JavaScript, CSS, Blade, SCSS**
-- Rate limit remaining: **4999** (resets: 2026-07-28T14:12:07.000Z)
-- Last updated: 2026-07-28T13:12:14.104Z
+- Rate limit remaining: **4999** (resets: 2026-07-28T16:32:06.000Z)
+- Last updated: 2026-07-28T15:32:13.845Z
 
 <!-- GITHUB-METRICS:END -->
 
