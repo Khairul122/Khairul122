@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-07-28T01:03:56.546Z",
+  "lastUpdated": "2026-07-28T04:17:49.232Z",
   "recentCommits": 29,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "sippm_madina",
+      "pushedAt": "2026-07-28T03:03:21Z",
+      "html_url": "https://github.com/Khairul122/sippm_madina",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-07-27T23:44:13Z",
+      "pushedAt": "2026-07-28T01:14:36Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,12 +33,6 @@
       "pushedAt": "2026-07-25T06:18:32Z",
       "html_url": "https://github.com/Khairul122/web_discakpil",
       "description": null
-    },
-    {
-      "name": "spk-topsis-karyawan-terbaik",
-      "pushedAt": "2026-07-23T11:35:09Z",
-      "html_url": "https://github.com/Khairul122/spk-topsis-karyawan-terbaik",
-      "description": null
     }
   ],
   "topLangs": [
@@ -44,6 +44,6 @@
   ],
   "rateLimit": {
     "remaining": 4997,
-    "reset": 1785204225
+    "reset": 1785215859
   }
 }
