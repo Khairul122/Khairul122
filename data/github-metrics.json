@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-07-28T11:31:35.895Z",
-  "recentCommits": 29,
+  "lastUpdated": "2026-07-28T13:12:14.104Z",
+  "recentCommits": 28,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "e-commerce-rendang",
+      "pushedAt": "2026-07-28T12:54:33Z",
+      "html_url": "https://github.com/Khairul122/e-commerce-rendang",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-07-28T09:23:30Z",
+      "pushedAt": "2026-07-28T11:31:36Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-07-26T10:41:18Z",
       "html_url": "https://github.com/Khairul122/siakad",
       "description": "Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)"
-    },
-    {
-      "name": "web_discakpil",
-      "pushedAt": "2026-07-25T06:18:32Z",
-      "html_url": "https://github.com/Khairul122/web_discakpil",
-      "description": null
     }
   ],
   "topLangs": [
     "PHP",
     "JavaScript",
     "CSS",
-    "Dart",
-    "Blade"
+    "Blade",
+    "SCSS"
   ],
   "rateLimit": {
     "remaining": 4999,
-    "reset": 1785241888
+    "reset": 1785247927
   }
 }
