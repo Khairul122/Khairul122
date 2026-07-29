@@ -45,18 +45,18 @@ const khairul: Developer = {
 Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions (fetch-github-metrics) dan diperbarui periodik.
 
 <!-- GITHUB-METRICS:START -->
-- Recent commits (7d): **28**
+- Recent commits (7d): **26**
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
+  - [lms](https://github.com/Khairul122/lms) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [e-commerce-rendang](https://github.com/Khairul122/e-commerce-rendang) - 
   - [sippm_madina](https://github.com/Khairul122/sippm_madina) - 
   - [e-commerce](https://github.com/Khairul122/e-commerce) - 
-  - [siakad](https://github.com/Khairul122/siakad) - Sistem Akademik: Laravel backend + admin panel, app mahasiswa & dosen (Flutter)
 - Languages by activity: **PHP, JavaScript, CSS, Blade, SCSS**
-- Rate limit remaining: **4997** (resets: 2026-07-29T14:15:35.000Z)
-- Last updated: 2026-07-29T13:15:44.212Z
+- Rate limit remaining: **4996** (resets: 2026-07-29T16:19:21.000Z)
+- Last updated: 2026-07-29T15:19:29.242Z
 
 <!-- GITHUB-METRICS:END -->
 
