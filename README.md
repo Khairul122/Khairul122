@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [lms](https://github.com/Khairul122/lms) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [lms](https://github.com/Khairul122/lms) - 
   - [e-commerce-rendang](https://github.com/Khairul122/e-commerce-rendang) - 
   - [sippm_madina](https://github.com/Khairul122/sippm_madina) - 
   - [e-commerce](https://github.com/Khairul122/e-commerce) - 
 - Languages by activity: **PHP, JavaScript, CSS, Blade, SCSS**
-- Rate limit remaining: **4996** (resets: 2026-07-29T16:19:21.000Z)
-- Last updated: 2026-07-29T15:19:29.242Z
+- Rate limit remaining: **4997** (resets: 2026-07-29T17:40:17.000Z)
+- Last updated: 2026-07-29T16:40:25.422Z
 
 <!-- GITHUB-METRICS:END -->
 
