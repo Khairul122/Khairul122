@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
-  - [web_discakpil](https://github.com/Khairul122/web_discakpil) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [web_discakpil](https://github.com/Khairul122/web_discakpil) - 
   - [sippm_madina](https://github.com/Khairul122/sippm_madina) - 
   - [ecommerce-flutter](https://github.com/Khairul122/ecommerce-flutter) - 
   - [lms](https://github.com/Khairul122/lms) - 
 - Languages by activity: **PHP, JavaScript, CSS, Dart, Blade**
-- Rate limit remaining: **4999** (resets: 2026-08-04T05:26:37.000Z)
-- Last updated: 2026-08-04T04:26:42.469Z
+- Rate limit remaining: **4997** (resets: 2026-08-04T08:07:51.000Z)
+- Last updated: 2026-08-04T07:08:00.775Z
 
 <!-- GITHUB-METRICS:END -->
 
