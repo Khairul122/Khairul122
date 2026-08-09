@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-08-09T14:00:20.602Z",
+  "lastUpdated": "2026-08-09T14:37:18.146Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
-      "name": "sippm_madina",
-      "pushedAt": "2026-08-09T13:32:09Z",
-      "html_url": "https://github.com/Khairul122/sippm_madina",
+      "name": "Khairul122",
+      "pushedAt": "2026-08-09T14:00:21Z",
+      "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
-      "name": "Khairul122",
-      "pushedAt": "2026-08-09T13:16:51Z",
-      "html_url": "https://github.com/Khairul122/Khairul122",
+      "name": "sippm_madina",
+      "pushedAt": "2026-08-09T13:32:09Z",
+      "html_url": "https://github.com/Khairul122/sippm_madina",
       "description": null
     },
     {
@@ -43,7 +43,7 @@
     "SCSS"
   ],
   "rateLimit": {
-    "remaining": 4991,
-    "reset": 1786285006
+    "remaining": 4997,
+    "reset": 1786289829
   }
 }
