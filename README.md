@@ -45,18 +45,18 @@ const khairul: Developer = {
 Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions (fetch-github-metrics) dan diperbarui periodik.
 
 <!-- GITHUB-METRICS:START -->
-- Recent commits (7d): **30**
+- Recent commits (7d): **29**
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
+  - [top-up-game-prototipe](https://github.com/Khairul122/top-up-game-prototipe) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [ecommerce-flutter](https://github.com/Khairul122/ecommerce-flutter) - 
   - [sippm_madina](https://github.com/Khairul122/sippm_madina) - 
   - [yoloikan](https://github.com/Khairul122/yoloikan) - 
-  - [web_discakpil](https://github.com/Khairul122/web_discakpil) - 
-- Languages by activity: **PHP, Dart, JavaScript, Blade, SCSS**
-- Rate limit remaining: **4997** (resets: 2026-08-11T08:22:52.000Z)
-- Last updated: 2026-08-11T07:23:01.041Z
+- Languages by activity: **PHP, Dart, Blade, JavaScript, SCSS**
+- Rate limit remaining: **4999** (resets: 2026-08-11T09:27:52.000Z)
+- Last updated: 2026-08-11T08:27:57.887Z
 
 <!-- GITHUB-METRICS:END -->
 

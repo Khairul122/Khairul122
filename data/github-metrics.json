@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-08-11T07:23:01.041Z",
-  "recentCommits": 30,
+  "lastUpdated": "2026-08-11T08:27:57.887Z",
+  "recentCommits": 29,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "top-up-game-prototipe",
+      "pushedAt": "2026-08-11T07:56:35Z",
+      "html_url": "https://github.com/Khairul122/top-up-game-prototipe",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-08-11T06:07:01Z",
+      "pushedAt": "2026-08-11T07:23:02Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-08-05T13:29:50Z",
       "html_url": "https://github.com/Khairul122/yoloikan",
       "description": null
-    },
-    {
-      "name": "web_discakpil",
-      "pushedAt": "2026-08-04T02:24:38Z",
-      "html_url": "https://github.com/Khairul122/web_discakpil",
-      "description": null
     }
   ],
   "topLangs": [
     "PHP",
     "Dart",
-    "JavaScript",
     "Blade",
+    "JavaScript",
     "SCSS"
   ],
   "rateLimit": {
-    "remaining": 4997,
-    "reset": 1786436572
+    "remaining": 4999,
+    "reset": 1786440472
   }
 }
