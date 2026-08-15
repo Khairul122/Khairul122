@@ -50,13 +50,13 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
   - [NusantaraAlert](https://github.com/Khairul122/NusantaraAlert) - 
-  - [lstm](https://github.com/Khairul122/lstm) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
+  - [lstm](https://github.com/Khairul122/lstm) - 
   - [topup-prototipe](https://github.com/Khairul122/topup-prototipe) - 
   - [top-up-game-prototipe](https://github.com/Khairul122/top-up-game-prototipe) - 
 - Languages by activity: **PHP, Dart, JavaScript, Blade, HTML**
-- Rate limit remaining: **4997** (resets: 2026-08-15T17:43:25.000Z)
-- Last updated: 2026-08-15T16:43:34.318Z
+- Rate limit remaining: **4990** (resets: 2026-08-15T17:43:25.000Z)
+- Last updated: 2026-08-15T16:59:44.375Z
 
 <!-- GITHUB-METRICS:END -->
 

@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-08-15T16:43:34.318Z",
+  "lastUpdated": "2026-08-15T16:59:44.375Z",
   "recentCommits": 29,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
       "name": "NusantaraAlert",
-      "pushedAt": "2026-08-15T16:41:53Z",
+      "pushedAt": "2026-08-15T16:57:25Z",
       "html_url": "https://github.com/Khairul122/NusantaraAlert",
+      "description": null
+    },
+    {
+      "name": "Khairul122",
+      "pushedAt": "2026-08-15T16:43:35Z",
+      "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
       "name": "lstm",
       "pushedAt": "2026-08-15T16:25:45Z",
       "html_url": "https://github.com/Khairul122/lstm",
-      "description": null
-    },
-    {
-      "name": "Khairul122",
-      "pushedAt": "2026-08-15T16:17:22Z",
-      "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
     {
@@ -43,7 +43,7 @@
     "HTML"
   ],
   "rateLimit": {
-    "remaining": 4997,
+    "remaining": 4990,
     "reset": 1786815805
   }
 }
