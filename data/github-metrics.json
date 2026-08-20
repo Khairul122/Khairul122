@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-08-20T23:10:25.565Z",
+  "lastUpdated": "2026-08-20T23:36:46.719Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "backend-synectra",
+      "pushedAt": "2026-08-20T23:27:04Z",
+      "html_url": "https://github.com/Khairul122/backend-synectra",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-08-20T22:48:52Z",
+      "pushedAt": "2026-08-20T23:10:26Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-08-15T17:09:02Z",
       "html_url": "https://github.com/Khairul122/NusantaraAlert",
       "description": null
-    },
-    {
-      "name": "topup-prototipe",
-      "pushedAt": "2026-08-14T04:35:37Z",
-      "html_url": "https://github.com/Khairul122/topup-prototipe",
-      "description": null
     }
   ],
   "topLangs": [
     "PHP",
-    "JavaScript",
     "Dart",
+    "JavaScript",
     "Blade",
     "HTML"
   ],
   "rateLimit": {
-    "remaining": 4997,
+    "remaining": 4990,
     "reset": 1787271017
   }
 }
