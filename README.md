@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
+  - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [frontend-synectra](https://github.com/Khairul122/frontend-synectra) - 
   - [backend-synectra](https://github.com/Khairul122/backend-synectra) - 
-  - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [lstm](https://github.com/Khairul122/lstm) - 
   - [NusantaraAlert](https://github.com/Khairul122/NusantaraAlert) - 
 - Languages by activity: **PHP, Dart, JavaScript, Blade, HTML**
-- Rate limit remaining: **4983** (resets: 2026-08-21T19:39:02.000Z)
-- Last updated: 2026-08-21T19:35:10.544Z
+- Rate limit remaining: **4998** (resets: 2026-08-21T20:51:16.000Z)
+- Last updated: 2026-08-21T19:51:26.001Z
 
 <!-- GITHUB-METRICS:END -->
 
