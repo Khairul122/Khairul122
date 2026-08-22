@@ -49,14 +49,14 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - PRs merged (30d): **0**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
+  - [e-commerce-rendang](https://github.com/Khairul122/e-commerce-rendang) - 
   - [frontend-synectra](https://github.com/Khairul122/frontend-synectra) - 
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
   - [backend-synectra](https://github.com/Khairul122/backend-synectra) - 
   - [lstm](https://github.com/Khairul122/lstm) - 
-  - [NusantaraAlert](https://github.com/Khairul122/NusantaraAlert) - 
-- Languages by activity: **PHP, Dart, JavaScript, Blade, HTML**
-- Rate limit remaining: **4997** (resets: 2026-08-22T03:18:27.000Z)
-- Last updated: 2026-08-22T02:18:35.991Z
+- Languages by activity: **PHP, JavaScript, Dart, Blade, TypeScript**
+- Rate limit remaining: **4990** (resets: 2026-08-22T03:18:27.000Z)
+- Last updated: 2026-08-22T03:09:54.699Z
 
 <!-- GITHUB-METRICS:END -->
 

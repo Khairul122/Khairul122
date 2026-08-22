@@ -1,18 +1,24 @@
 {
-  "lastUpdated": "2026-08-22T02:18:35.991Z",
+  "lastUpdated": "2026-08-22T03:09:54.699Z",
   "recentCommits": 30,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "e-commerce-rendang",
+      "pushedAt": "2026-08-22T02:58:54Z",
+      "html_url": "https://github.com/Khairul122/e-commerce-rendang",
+      "description": null
+    },
+    {
       "name": "frontend-synectra",
-      "pushedAt": "2026-08-22T01:58:36Z",
+      "pushedAt": "2026-08-22T02:30:24Z",
       "html_url": "https://github.com/Khairul122/frontend-synectra",
       "description": null
     },
     {
       "name": "Khairul122",
-      "pushedAt": "2026-08-22T01:03:34Z",
+      "pushedAt": "2026-08-22T02:18:37Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-08-18T17:41:07Z",
       "html_url": "https://github.com/Khairul122/lstm",
       "description": null
-    },
-    {
-      "name": "NusantaraAlert",
-      "pushedAt": "2026-08-15T17:09:02Z",
-      "html_url": "https://github.com/Khairul122/NusantaraAlert",
-      "description": null
     }
   ],
   "topLangs": [
     "PHP",
-    "Dart",
     "JavaScript",
+    "Dart",
     "Blade",
-    "HTML"
+    "TypeScript"
   ],
   "rateLimit": {
-    "remaining": 4997,
+    "remaining": 4990,
     "reset": 1787368707
   }
 }
