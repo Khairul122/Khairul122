@@ -50,13 +50,13 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
-  - [backend-synectra](https://github.com/Khairul122/backend-synectra) - 
   - [synectra](https://github.com/Khairul122/synectra) - 
   - [e-commerce-rendang](https://github.com/Khairul122/e-commerce-rendang) - 
-  - [frontend-synectra](https://github.com/Khairul122/frontend-synectra) - 
-- Languages by activity: **HTML, JavaScript, Dart, PHP, TypeScript**
-- Rate limit remaining: **4992** (resets: 2026-08-24T17:56:56.000Z)
-- Last updated: 2026-08-24T17:24:49.415Z
+  - [lstm](https://github.com/Khairul122/lstm) - 
+  - [topup-prototipe](https://github.com/Khairul122/topup-prototipe) - 
+- Languages by activity: **HTML, PHP, Dart, JavaScript, Blade**
+- Rate limit remaining: **4986** (resets: 2026-08-24T17:56:56.000Z)
+- Last updated: 2026-08-24T17:53:15.818Z
 
 <!-- GITHUB-METRICS:END -->
 
