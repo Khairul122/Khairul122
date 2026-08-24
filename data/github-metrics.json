@@ -1,12 +1,18 @@
 {
-  "lastUpdated": "2026-08-24T09:08:41.081Z",
-  "recentCommits": 29,
+  "lastUpdated": "2026-08-24T09:59:03.257Z",
+  "recentCommits": 28,
   "prsMerged": 0,
   "issuesOpened": 0,
   "topRepos": [
     {
+      "name": "synectra",
+      "pushedAt": "2026-08-24T09:49:48Z",
+      "html_url": "https://github.com/Khairul122/synectra",
+      "description": null
+    },
+    {
       "name": "Khairul122",
-      "pushedAt": "2026-08-24T08:22:19Z",
+      "pushedAt": "2026-08-24T09:08:42Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -27,23 +33,17 @@
       "pushedAt": "2026-08-23T10:58:59Z",
       "html_url": "https://github.com/Khairul122/frontend-synectra",
       "description": null
-    },
-    {
-      "name": "lstm",
-      "pushedAt": "2026-08-18T17:41:07Z",
-      "html_url": "https://github.com/Khairul122/lstm",
-      "description": null
     }
   ],
   "topLangs": [
-    "PHP",
+    "HTML",
     "JavaScript",
     "Dart",
-    "Blade",
+    "PHP",
     "TypeScript"
   ],
   "rateLimit": {
-    "remaining": 4997,
+    "remaining": 4991,
     "reset": 1787566113
   }
 }
