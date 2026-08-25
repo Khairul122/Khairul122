@@ -45,8 +45,8 @@ const khairul: Developer = {
 Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions (fetch-github-metrics) dan diperbarui periodik.
 
 <!-- GITHUB-METRICS:START -->
-- Recent commits (7d): **14**
-- PRs merged (30d): **14**
+- Recent commits (7d): **9**
+- PRs merged (30d): **18**
 - Issues opened (30d): **0**
 - Top repos (by recent activity):
   - [Khairul122](https://github.com/Khairul122/Khairul122) - 
@@ -55,8 +55,8 @@ Konten di antara tag berikut akan digenerasi secara otomatis oleh GitHub Actions
   - [lstm](https://github.com/Khairul122/lstm) - 
   - [top-up-game-prototipe](https://github.com/Khairul122/top-up-game-prototipe) - 
 - Languages by activity: **HTML, PHP, Dart, Blade, JavaScript**
-- Rate limit remaining: **4998** (resets: 2026-08-25T14:55:28.000Z)
-- Last updated: 2026-08-25T13:55:36.448Z
+- Rate limit remaining: **4991** (resets: 2026-08-25T14:55:28.000Z)
+- Last updated: 2026-08-25T14:34:13.814Z
 
 <!-- GITHUB-METRICS:END -->
 
