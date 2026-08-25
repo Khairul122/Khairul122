@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-08-25T12:02:34.611Z",
-  "recentCommits": 17,
-  "prsMerged": 10,
+  "lastUpdated": "2026-08-25T13:02:38.905Z",
+  "recentCommits": 14,
+  "prsMerged": 12,
   "issuesOpened": 0,
   "topRepos": [
     {
       "name": "Khairul122",
-      "pushedAt": "2026-08-25T11:43:32Z",
+      "pushedAt": "2026-08-25T12:20:16Z",
       "html_url": "https://github.com/Khairul122/Khairul122",
       "description": null
     },
@@ -29,9 +29,9 @@
       "description": null
     },
     {
-      "name": "topup-prototipe",
-      "pushedAt": "2026-08-14T04:35:37Z",
-      "html_url": "https://github.com/Khairul122/topup-prototipe",
+      "name": "top-up-game-prototipe",
+      "pushedAt": "2026-08-11T12:06:29Z",
+      "html_url": "https://github.com/Khairul122/top-up-game-prototipe",
       "description": null
     }
   ],
@@ -39,11 +39,11 @@
     "HTML",
     "PHP",
     "Dart",
-    "JavaScript",
-    "Blade"
+    "Blade",
+    "JavaScript"
   ],
   "rateLimit": {
-    "remaining": 4986,
-    "reset": 1787660043
+    "remaining": 4995,
+    "reset": 1787664043
   }
 }
