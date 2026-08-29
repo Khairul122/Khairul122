@@ -4,7 +4,7 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:10b981&height=220&section=header&text=Khairul%20Huda&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Web3%20Explorer&descAlignY=58&descSize=19&descColor=c4b5fd)
 
 <!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=680&height=50&lines=%F0%9F%92%BB+Full+Stack+Software+Engineer;%F0%9F%A4%96+Machine+Learning+%26+AI+Enthusiast;%F0%9F%93%B1+Mobile+Developer+%7C+Flutter+%26+Kotlin;%F0%9F%8C%90+Web3+%26+Open+Source+Contributor;%F0%9F%9A%80+Building+Scalable+%26+Impactful+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0284C7&center=true&vCenter=true&random=false&width=680&height=50&lines=%F0%9F%92%BB+Full+Stack+Software+Engineer;%F0%9F%A4%96+Machine+Learning+%26+AI+Enthusiast;%F0%9F%93%B1+Mobile+Developer+%7C+Flutter+%26+Kotlin;%F0%9F%8C%90+Web3+%26+Open+Source+Contributor;%F0%9F%9A%80+Building+Scalable+%26+Impactful+Apps)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,10 +14,10 @@
 
 ### 🌐 Connect & Collaborate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khairul122)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/khrl_arll)
-[![Email](https://img.shields.io/badge/Email-khairulhuda242%40gmail.com-06b6d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khairulhuda242@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khairulhuda242@gmail.com)
 
 </div>
 
@@ -40,7 +40,7 @@ const khairul: DeveloperProfile = {
 };
 ```
 
-👋 Halo! Saya **Khairul Huda**, mahasiswa **Teknik Informatika** yang berdedikasi membangun aplikasi web modern, sistem berbasis Kecerdasan Buatan (AI/ML), serta aplikasi mobile cross-platform. Saya aktif mengembangkan proyek open-source dan selalu tertarik mengeksplorasi teknologi terbaru.
+👋 **Halo! Saya Khairul Huda**, mahasiswa **Teknik Informatika** yang berdedikasi membangun aplikasi web modern, sistem berbasis Kecerdasan Buatan (AI/ML), serta aplikasi mobile cross-platform. Saya aktif mengembangkan proyek open-source dan selalu tertarik mengeksplorasi teknologi terbaru.
 
 ---
 
@@ -49,13 +49,13 @@ const khairul: DeveloperProfile = {
 > 🔄 *Data statistik di bawah ini diperbarui secara otomatis setiap 5 menit via GitHub Actions.*
 
 <!-- GITHUB-METRICS:START -->
-- ⚡ **Recent Commits (7d):** **29**
+- ⚡ **Recent Commits (7d):** **30**
 - 🔀 **PRs Merged (30d):** **22**
 - 🎯 **Issues Opened (30d):** **0**
 - 📦 **Top Active Repos:** [`Khairul122`](https://github.com/Khairul122/Khairul122) • [`synectra`](https://github.com/Khairul122/synectra) • [`e-commerce-rendang`](https://github.com/Khairul122/e-commerce-rendang) • [`lstm`](https://github.com/Khairul122/lstm) • [`top-up-game-prototipe`](https://github.com/Khairul122/top-up-game-prototipe)
-- 🔤 **Languages by Activity:** **HTML, PHP, Dart, Blade, JavaScript**
-- 🕒 **Rate Limit Remaining:** **54** (Resets: `10:19:04 UTC`)
-- 🔄 *Last updated: Sat, 29 Aug 2026 09:52:18 GMT*
+- 🔤 **Languages by Activity:** **HTML, JavaScript**
+- 🕒 **Rate Limit Remaining:** **41** (Resets: `10:19:04 UTC`)
+- 🔄 *Last updated: Sat, 29 Aug 2026 09:56:13 GMT*
 <!-- GITHUB-METRICS:END -->
 
 ---
@@ -90,12 +90,12 @@ const khairul: DeveloperProfile = {
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| ⚡ **[Synectra](https://github.com/Khairul122/synectra)** | Integrated workspace & system hub for modern workflows. | `TypeScript` • `React` • `Node.js` |
-| 🛒 **[E-Commerce Rendang](https://github.com/Khairul122/e-commerce-rendang)** | Full-featured digital store & inventory management platform. | `PHP` • `Laravel` • `MySQL` |
-| 🎮 **[Top-Up Game Prototype](https://github.com/Khairul122/top-up-game-prototipe)** | Interactive game credits & voucher transaction prototype. | `JavaScript` • `HTML/CSS` |
-| 🧠 **[LSTM Time Series Model](https://github.com/Khairul122/lstm)** | Deep learning recurrent neural network model for forecasting. | `Python` • `PyTorch` • `Jupyter` |
+| Project | Description | Tech Stack | Stars |
+| :--- | :--- | :--- | :---: |
+| ⚡ **[Synectra](https://github.com/Khairul122/synectra)** | Integrated workspace & system hub for modern workflows. | `TypeScript` • `React` • `Node.js` | ![Stars](https://img.shields.io/github/stars/Khairul122/synectra?style=flat-square) |
+| 🛒 **[E-Commerce Rendang](https://github.com/Khairul122/e-commerce-rendang)** | Full-featured digital store & inventory management platform. | `PHP` • `Laravel` • `MySQL` | ![Stars](https://img.shields.io/github/stars/Khairul122/e-commerce-rendang?style=flat-square) |
+| 🎮 **[Top-Up Game Prototype](https://github.com/Khairul122/top-up-game-prototipe)** | Interactive game credits & voucher transaction prototype. | `JavaScript` • `HTML/CSS` | ![Stars](https://img.shields.io/github/stars/Khairul122/top-up-game-prototipe?style=flat-square) |
+| 🧠 **[LSTM Time Series Model](https://github.com/Khairul122/lstm)** | Deep learning recurrent neural network model for forecasting. | `Python` • `PyTorch` • `Jupyter` | ![Stars](https://img.shields.io/github/stars/Khairul122/lstm?style=flat-square) |
 
 </div>
 

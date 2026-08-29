@@ -1,14 +1,466 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Khairul - GitHub Live</title>
-    <style>body{font-family:Inter,Arial;margin:32px;background:#0d0d1a;color:#e2e8f0}a{color:#06b6d4}</style>
-  </head>
-  <body>
-    <h1>GitHub Live</h1>
-    <div id="metrics">Loading metrics...</div>
-    <script src="/site/app.js"></script>
-  </body>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Khairul Huda - Developer Portfolio & GitHub Live Dashboard</title>
+  <meta name="description" content="Portfolio dan Dashboard Live GitHub Khairul Huda - Full Stack Developer & ML Engineer">
+  
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  
+  <!-- FontAwesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+  <style>
+    :root {
+      --bg-dark: #0b0f19;
+      --card-bg: rgba(18, 24, 38, 0.75);
+      --card-border: rgba(124, 58, 237, 0.25);
+      --card-hover-border: rgba(6, 182, 212, 0.5);
+      --primary-cyan: #06b6d4;
+      --primary-purple: #7c3aed;
+      --primary-emerald: #10b981;
+      --text-main: #f1f5f9;
+      --text-muted: #94a3b8;
+      --accent-gradient: linear-gradient(135deg, #06b6d4 0%, #7c3aed 50%, #10b981 100%);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background-color: var(--bg-dark);
+      color: var(--text-main);
+      min-height: 100vh;
+      overflow-x: hidden;
+      line-height: 1.6;
+      background-image: 
+        radial-gradient(circle at 15% 15%, rgba(6, 182, 212, 0.12) 0%, transparent 40%),
+        radial-gradient(circle at 85% 30%, rgba(124, 58, 237, 0.15) 0%, transparent 45%),
+        radial-gradient(circle at 50% 80%, rgba(16, 185, 129, 0.1) 0%, transparent 50%);
+      background-attachment: fixed;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 40px 20px 80px 20px;
+    }
+
+    /* Header & Hero Section */
+    .hero {
+      text-align: center;
+      padding: 60px 20px 40px 20px;
+      background: var(--card-bg);
+      backdrop-filter: blur(16px);
+      border: 1px solid var(--card-border);
+      border-radius: 24px;
+      margin-bottom: 40px;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      height: 4px;
+      background: var(--accent-gradient);
+    }
+
+    .avatar-wrapper {
+      position: relative;
+      display: inline-block;
+      margin-bottom: 20px;
+    }
+
+    .avatar {
+      width: 110px;
+      height: 110px;
+      border-radius: 50%;
+      border: 3px solid var(--primary-cyan);
+      box-shadow: 0 0 25px rgba(6, 182, 212, 0.4);
+    }
+
+    .hero-title {
+      font-size: 2.75rem;
+      font-weight: 800;
+      background: var(--accent-gradient);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 10px;
+      letter-spacing: -0.5px;
+    }
+
+    .hero-subtitle {
+      font-size: 1.15rem;
+      color: var(--text-muted);
+      margin-bottom: 24px;
+    }
+
+    .social-links {
+      display: flex;
+      justify-content: center;
+      gap: 14px;
+      flex-wrap: wrap;
+    }
+
+    .social-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 10px 18px;
+      border-radius: 12px;
+      background: rgba(255, 255, 255, 0.05);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+      color: var(--text-main);
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 0.9rem;
+      transition: all 0.25s ease;
+    }
+
+    .social-btn:hover {
+      background: rgba(6, 182, 212, 0.15);
+      border-color: var(--primary-cyan);
+      transform: translateY(-2px);
+      color: #fff;
+    }
+
+    /* Grid Sections */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 24px;
+      margin-bottom: 40px;
+    }
+
+    .card {
+      background: var(--card-bg);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--card-border);
+      border-radius: 20px;
+      padding: 28px;
+      transition: all 0.3s ease;
+    }
+
+    .card:hover {
+      border-color: var(--card-hover-border);
+      transform: translateY(-4px);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+
+    .card-icon {
+      width: 42px;
+      height: 42px;
+      border-radius: 12px;
+      background: rgba(124, 58, 237, 0.15);
+      color: var(--primary-purple);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1.2rem;
+    }
+
+    .card-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--text-main);
+    }
+
+    /* Code Box */
+    .code-box {
+      font-family: 'Fira Code', monospace;
+      background: rgba(5, 8, 15, 0.85);
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 14px;
+      padding: 16px;
+      font-size: 0.85rem;
+      color: #38bdf8;
+      overflow-x: auto;
+    }
+
+    .code-box .keyword { color: #f472b6; }
+    .code-box .string { color: #34d399; }
+    .code-box .property { color: #c084fc; }
+
+    /* Live Metrics List */
+    .metric-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .metric-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 16px;
+      background: rgba(255, 255, 255, 0.03);
+      border-radius: 12px;
+      border: 1px solid rgba(255, 255, 255, 0.05);
+    }
+
+    .metric-label {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 0.95rem;
+      color: var(--text-muted);
+    }
+
+    .metric-value {
+      font-weight: 700;
+      color: var(--primary-cyan);
+      font-size: 1.05rem;
+    }
+
+    /* Projects Grid */
+    .projects-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 20px;
+    }
+
+    .project-card {
+      background: rgba(255, 255, 255, 0.03);
+      border: 1px solid rgba(255, 255, 255, 0.06);
+      border-radius: 16px;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: all 0.25s ease;
+    }
+
+    .project-card:hover {
+      background: rgba(6, 182, 212, 0.06);
+      border-color: var(--primary-cyan);
+    }
+
+    .project-title {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--text-main);
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .project-desc {
+      font-size: 0.88rem;
+      color: var(--text-muted);
+      margin-bottom: 16px;
+    }
+
+    .project-tags {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .tag {
+      font-size: 0.75rem;
+      padding: 4px 10px;
+      border-radius: 20px;
+      background: rgba(124, 58, 237, 0.18);
+      color: #c4b5fd;
+      font-weight: 600;
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 60px;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+
+    .footer a {
+      color: var(--primary-cyan);
+      text-decoration: none;
+    }
+
+    @media (max-width: 768px) {
+      .hero-title { font-size: 2.1rem; }
+      .container { padding: 20px 14px; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    
+    <!-- Hero Header -->
+    <header class="hero">
+      <div class="avatar-wrapper">
+        <img class="avatar" src="https://github.com/Khairul122.png" alt="Khairul Huda">
+      </div>
+      <h1 class="hero-title">Khairul Huda</h1>
+      <p class="hero-subtitle">Full Stack Developer • Machine Learning Engineer • Web3 Explorer</p>
+      
+      <div class="social-links">
+        <a class="social-btn" href="https://github.com/Khairul122" target="_blank">
+          <i class="fab fa-github"></i> GitHub
+        </a>
+        <a class="social-btn" href="https://linkedin.com/in/" target="_blank">
+          <i class="fab fa-linkedin"></i> LinkedIn
+        </a>
+        <a class="social-btn" href="https://instagram.com/khrl_arll" target="_blank">
+          <i class="fab fa-instagram"></i> Instagram
+        </a>
+        <a class="social-btn" href="mailto:khairulhuda242@gmail.com">
+          <i class="fas fa-envelope"></i> Email
+        </a>
+      </div>
+    </header>
+
+    <!-- Main Grid -->
+    <main class="grid">
+      
+      <!-- About Me Card -->
+      <section class="card">
+        <div class="card-header">
+          <div class="card-icon"><i class="fas fa-user-astronaut"></i></div>
+          <h2 class="card-title">Tentang Saya</h2>
+        </div>
+        <div class="code-box">
+          <span class="keyword">const</span> <span class="property">developer</span> = {<br>
+          &nbsp;&nbsp;<span class="property">name</span>: <span class="string">"Khairul Huda"</span>,<br>
+          &nbsp;&nbsp;<span class="property">role</span>: <span class="string">"Full Stack & ML"</span>,<br>
+          &nbsp;&nbsp;<span class="property">education</span>: <span class="string">"Teknik Informatika"</span>,<br>
+          &nbsp;&nbsp;<span class="property">focus</span>: [<span class="string">"Web"</span>, <span class="string">"AI/ML"</span>, <span class="string">"Mobile"</span>]<br>
+          };
+        </div>
+        <p style="margin-top: 16px; font-size: 0.92rem; color: var(--text-muted);">
+          Mahasiswa Teknik Informatika yang berdedikasi menciptakan perangkat lunak berkinerja tinggi, sistem berbasis kecerdasan buatan, serta aplikasi mobile modern.
+        </p>
+      </section>
+
+      <!-- GitHub Live Metrics Card -->
+      <section class="card">
+        <div class="card-header">
+          <div class="card-icon" style="background: rgba(6, 182, 212, 0.15); color: var(--primary-cyan);">
+            <i class="fas fa-chart-line"></i>
+          </div>
+          <h2 class="card-title">GitHub Live Metrics</h2>
+        </div>
+        
+        <div id="metrics">
+          <div style="text-align: center; color: var(--text-muted); padding: 20px;">
+            <i class="fas fa-circle-notch fa-spin"></i> Memuat data GitHub...
+          </div>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Tech Stack Section -->
+    <section class="card" style="margin-bottom: 40px;">
+      <div class="card-header">
+        <div class="card-icon" style="background: rgba(16, 185, 129, 0.15); color: var(--primary-emerald);">
+          <i class="fas fa-layer-group"></i>
+        </div>
+        <h2 class="card-title">Tech Stack & Ecosystem</h2>
+      </div>
+      <div style="text-align: center; overflow-x: auto; padding: 10px 0;">
+        <img src="https://skillicons.dev/icons?i=python,ts,js,kotlin,dart,cpp,react,nextjs,nodejs,laravel,flutter,pytorch,mysql,postgres,docker,git,vscode&theme=dark" alt="Tech Stack Icons" style="max-width: 100%; height: auto;">
+      </div>
+    </section>
+
+    <!-- Featured Repositories Section -->
+    <section class="card">
+      <div class="card-header">
+        <div class="card-icon" style="background: rgba(245, 158, 11, 0.15); color: #f59e0b;">
+          <i class="fas fa-folder-open"></i>
+        </div>
+        <h2 class="card-title">Proyek Unggulan</h2>
+      </div>
+
+      <div class="projects-grid">
+        <a href="https://github.com/Khairul122/synectra" target="_blank" style="text-decoration: none;">
+          <div class="project-card">
+            <div>
+              <div class="project-title"><i class="fas fa-bolt" style="color:#06b6d4"></i> synectra</div>
+              <div class="project-desc">Workspace terintegrasi & system hub untuk alur kerja modern.</div>
+            </div>
+            <div class="project-tags">
+              <span class="tag">TypeScript</span>
+              <span class="tag">React</span>
+              <span class="tag">Node.js</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="https://github.com/Khairul122/e-commerce-rendang" target="_blank" style="text-decoration: none;">
+          <div class="project-card">
+            <div>
+              <div class="project-title"><i class="fas fa-shopping-cart" style="color:#10b981"></i> e-commerce-rendang</div>
+              <div class="project-desc">Platform toko digital & manajemen inventaris berbasis Laravel.</div>
+            </div>
+            <div class="project-tags">
+              <span class="tag">PHP</span>
+              <span class="tag">Laravel</span>
+              <span class="tag">MySQL</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="https://github.com/Khairul122/top-up-game-prototipe" target="_blank" style="text-decoration: none;">
+          <div class="project-card">
+            <div>
+              <div class="project-title"><i class="fas fa-gamepad" style="color:#7c3aed"></i> top-up-game-prototipe</div>
+              <div class="project-desc">Prototipe sistem transaksi voucher & kredit game interaktif.</div>
+            </div>
+            <div class="project-tags">
+              <span class="tag">JavaScript</span>
+              <span class="tag">HTML5</span>
+              <span class="tag">CSS3</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="https://github.com/Khairul122/lstm" target="_blank" style="text-decoration: none;">
+          <div class="project-card">
+            <div>
+              <div class="project-title"><i class="fas fa-brain" style="color:#ec4899"></i> lstm</div>
+              <div class="project-desc">Model neural network LSTM untuk prediksi deret waktu (time series).</div>
+            </div>
+            <div class="project-tags">
+              <span class="tag">Python</span>
+              <span class="tag">PyTorch</span>
+              <span class="tag">Deep Learning</span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>© 2026 <strong>Khairul Huda</strong>. Built with passion & automated via GitHub Actions.</p>
+    </footer>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
 </html>
