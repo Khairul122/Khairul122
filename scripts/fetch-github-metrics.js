@@ -134,16 +134,15 @@ async function getRateLimit(){
     const markerStart = '<!-- GITHUB-METRICS:START -->';
     const markerEnd = '<!-- GITHUB-METRICS:END -->';
     const mdLines = [
-      `- Recent commits (7d): **${recentCommits}**`,
-      `- PRs merged (30d): **${prsMerged}**`,
-      `- Issues opened (30d): **${issuesOpened}**`,
-      `- Top repos (by recent activity):`,
-      ...topRepos.map(r=>`  - [${r.name}](${r.html_url}) - ${r.description||''}`),
-      `- Languages by activity: **${topLangs.join(', ')}**`,
-      `- Rate limit remaining: **${rl.remaining}** (resets: ${new Date(rl.reset*1000).toISOString()})`,
-      `- Last updated: ${metrics.lastUpdated}`
+      `- ⚡ **Recent Commits (7d):** **${recentCommits}**`,
+      `- 🔀 **PRs Merged (30d):** **${prsMerged}**`,
+      `- 🎯 **Issues Opened (30d):** **${issuesOpened}**`,
+      `- 📦 **Top Active Repos:** ${topRepos.map(r=>`[\`${r.name}\`](${r.html_url})`).join(' • ')}`,
+      `- 🔤 **Languages by Activity:** **${topLangs.join(', ')}**`,
+      `- 🕒 **Rate Limit Remaining:** **${rl.remaining}** (Resets: \`${new Date(rl.reset*1000).toISOString().substr(11,8)} UTC\`)`,
+      `- 🔄 *Last updated: ${new Date().toUTCString()}*`
     ];
-    const newSection = `${markerStart}\n${mdLines.join('\n')}\n\n${markerEnd}`;
+    const newSection = `${markerStart}\n${mdLines.join('\n')}\n${markerEnd}`;
     const final = readme.replace(/<!-- GITHUB-METRICS:START -->[\s\S]*?<!-- GITHUB-METRICS:END -->/, newSection);
     if(final !== readme){ fs.writeFileSync('README.md', final); console.log('README updated with new metrics'); } else { console.log('No changes to README'); }
 
