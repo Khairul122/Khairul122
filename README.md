@@ -1,10 +1,15 @@
 <div align="center">
 
-<!-- Header Banner -->
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:10b981&height=220&section=header&text=Khairul%20Huda&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20Web3%20Explorer&descAlignY=58&descSize=19&descColor=c4b5fd)
+<!-- Custom Animated SVG Hero Banner -->
+<picture>
+  <source srcset="https://raw.githubusercontent.com/Khairul122/Khairul122/main/header.svg"/>
+  <img src="header.svg" alt="Khairul Huda Animated Header" width="100%"/>
+</picture>
 
-<!-- Typing SVG Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=0284C7&center=true&vCenter=true&random=false&width=680&height=50&lines=%F0%9F%92%BB+Full+Stack+Software+Engineer;%F0%9F%A4%96+Machine+Learning+%26+AI+Enthusiast;%F0%9F%93%B1+Mobile+Developer+%7C+Flutter+%26+Kotlin;%F0%9F%8C%90+Web3+%26+Open+Source+Contributor;%F0%9F%9A%80+Building+Scalable+%26+Impactful+Apps)](https://git.io/typing-svg)
+<br/><br/>
+
+<!-- Dynamic Typing SVG Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&random=false&width=700&height=50&lines=%F0%9F%92%BB+Full+Stack+Software+Engineer;%F0%9F%A4%96+Machine+Learning+%26+AI+Enthusiast;%F0%9F%93%B1+Mobile+Developer+%7C+Flutter+%26+Kotlin;%F0%9F%8C%90+Web3+%26+Open+Source+Contributor;%F0%9F%9A%80+Building+Scalable+%26+Impactful+Apps)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,8 +59,8 @@ const khairul: DeveloperProfile = {
 - 🎯 **Issues Opened (30d):** **0**
 - 📦 **Top Active Repos:** [`Khairul122`](https://github.com/Khairul122/Khairul122) • [`synectra`](https://github.com/Khairul122/synectra) • [`e-commerce-rendang`](https://github.com/Khairul122/e-commerce-rendang) • [`lstm`](https://github.com/Khairul122/lstm) • [`top-up-game-prototipe`](https://github.com/Khairul122/top-up-game-prototipe)
 - 🔤 **Languages by Activity:** **HTML, JavaScript**
-- 🕒 **Rate Limit Remaining:** **41** (Resets: `10:19:04 UTC`)
-- 🔄 *Last updated: Sat, 29 Aug 2026 09:56:13 GMT*
+- 🕒 **Rate Limit Remaining:** **37** (Resets: `10:19:04 UTC`)
+- 🔄 *Last updated: Sat, 29 Aug 2026 09:58:41 GMT*
 <!-- GITHUB-METRICS:END -->
 
 ---
