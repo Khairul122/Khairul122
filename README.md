@@ -54,13 +54,13 @@ const khairul: DeveloperProfile = {
 > 🔄 *Data statistik di bawah ini diperbarui secara otomatis setiap 5 menit via GitHub Actions.*
 
 <!-- GITHUB-METRICS:START -->
-- ⚡ **Recent Commits (7d):** **30**
-- 🔀 **PRs Merged (30d):** **22**
+- ⚡ **Recent Commits (7d):** **28**
+- 🔀 **PRs Merged (30d):** **23**
 - 🎯 **Issues Opened (30d):** **0**
 - 📦 **Top Active Repos:** [`Khairul122`](https://github.com/Khairul122/Khairul122) • [`synectra`](https://github.com/Khairul122/synectra) • [`e-commerce-rendang`](https://github.com/Khairul122/e-commerce-rendang) • [`lstm`](https://github.com/Khairul122/lstm) • [`top-up-game-prototipe`](https://github.com/Khairul122/top-up-game-prototipe)
 - 🔤 **Languages by Activity:** **HTML, PHP, Dart, Blade, JavaScript**
-- 🕒 **Rate Limit Remaining:** **5000** (Resets: `06:21:59 UTC`)
-- 🔄 *Last updated: Mon, 31 Aug 2026 05:22:02 GMT*
+- 🕒 **Rate Limit Remaining:** **5000** (Resets: `12:40:34 UTC`)
+- 🔄 *Last updated: Mon, 31 Aug 2026 11:40:37 GMT*
 <!-- GITHUB-METRICS:END -->
 
 ---
