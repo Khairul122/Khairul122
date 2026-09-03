@@ -59,8 +59,8 @@ const khairul: DeveloperProfile = {
 - 🎯 **Issues Opened (30d):** **0**
 - 📦 **Top Active Repos:** [`Khairul122`](https://github.com/Khairul122/Khairul122) • [`synectra`](https://github.com/Khairul122/synectra) • [`e-commerce-rendang`](https://github.com/Khairul122/e-commerce-rendang) • [`lstm`](https://github.com/Khairul122/lstm) • [`top-up-game-prototipe`](https://github.com/Khairul122/top-up-game-prototipe)
 - 🔤 **Languages by Activity:** **HTML, PHP, Dart, Blade, JavaScript**
-- 🕒 **Rate Limit Remaining:** **5000** (Resets: `20:47:10 UTC`)
-- 🔄 *Last updated: Thu, 03 Sep 2026 19:47:14 GMT*
+- 🕒 **Rate Limit Remaining:** **5000** (Resets: `22:54:11 UTC`)
+- 🔄 *Last updated: Thu, 03 Sep 2026 21:54:14 GMT*
 <!-- GITHUB-METRICS:END -->
 
 ---
